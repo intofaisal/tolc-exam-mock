@@ -51,7 +51,9 @@ document.addEventListener('DOMContentLoaded', async function() {
         initializeUserAnswers();
         
         // Set the total time based on exam type from the exam data
+        // TOLC-I: 110 minutes, TOLC-E: 90 minutes
         totalTime = examData.duration * 60; // Convert minutes to seconds
+        console.log(`Exam duration set to ${examData.duration} minutes (${totalTime} seconds) for ${examType}`);
         
         // Start the timer
         startTimer();
@@ -82,9 +84,15 @@ function initializeUserAnswers() {
         // Get the actual number of questions available
         const availableQuestions = section.questions.length;
         // Get the target number of questions for this section
-        const targetQuestions = section.questionCount || availableQuestions;
-        // Use the smaller of the two to avoid errors
-        const questionCount = Math.min(targetQuestions, availableQuestions);
+        const targetQuestions = section.questionCount;
+        
+        // Make sure we have the exact number of questions specified for each section
+        if (targetQuestions > availableQuestions) {
+            console.error(`Warning: Not enough questions available for section ${section.name}. Needed: ${targetQuestions}, Available: ${availableQuestions}`);
+        }
+        
+        // Use the exact target question count as specified in the requirements
+        const questionCount = targetQuestions;
         
         const sectionAnswers = Array(questionCount).fill(null);
         userAnswers.push(sectionAnswers);
@@ -129,15 +137,18 @@ function updateTimerDisplay(seconds) {
 function loadQuestion() {
     const section = examData.sections[currentSection];
     
-    // Get the actual number of questions to use for this section
-    const questionCount = Math.min(section.questionCount || section.questions.length, section.questions.length);
+    // Get the exact number of questions to use for this section as specified in the requirements
+    const questionCount = section.questionCount;
     
     // Make sure currentQuestion is within bounds
     if (currentQuestion >= questionCount) {
         currentQuestion = questionCount - 1;
     }
     
-    const question = section.questions[currentQuestion];
+    // Select a random question from the available questions for this section
+    // This ensures we get different questions each time while maintaining the correct count
+    const randomIndex = Math.floor(Math.random() * section.questions.length);
+    const question = section.questions[randomIndex];
     
     // Update section name
     sectionNameElement.textContent = `Section: ${section.name}`;
@@ -202,8 +213,8 @@ function loadQuestion() {
     
     // Update question pagination
     currentQuestionElement.textContent = currentQuestion + 1;
-    // Use the questionCount property if available, otherwise use the actual length
-    const totalQuestions = Math.min(section.questionCount || section.questions.length, section.questions.length);
+    // Use the exact questionCount as specified in the requirements
+    const totalQuestions = section.questionCount;
     totalQuestionsElement.textContent = totalQuestions;
     
     // Update navigation buttons
@@ -217,8 +228,8 @@ function updateNavigationButtons() {
     
     // Update next button text and state based on whether it's the last question
     const section = examData.sections[currentSection];
-    // Get the actual number of questions to use for this section
-    const questionCount = Math.min(section.questionCount || section.questions.length, section.questions.length);
+    // Get the exact number of questions to use for this section
+    const questionCount = section.questionCount;
     const isLastQuestion = currentQuestion === questionCount - 1;
     
     if (isLastQuestion) {
@@ -238,8 +249,8 @@ function updateNavigationButtons() {
 // Handle next button click
 function handleNextButton() {
     const section = examData.sections[currentSection];
-    // Get the actual number of questions to use for this section
-    const questionCount = Math.min(section.questionCount || section.questions.length, section.questions.length);
+    // Get the exact number of questions to use for this section
+    const questionCount = section.questionCount;
     const isLastQuestion = currentQuestion === questionCount - 1;
     
     if (isLastQuestion) {

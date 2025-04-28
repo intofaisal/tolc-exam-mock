@@ -8,76 +8,496 @@
         "questionCount": 20,
         "questions": [
           {
-            "text": "Solve the equation: 2x + 5 = 15",
-            "options": ["x = 5", "x = 10", "x = 7.5", "x = 5.5"],
-            "correctAnswer": 0,
-            "explanation": "2x + 5 = 15\n2x = 15 - 5\n2x = 10\nx = 5"
+            "text": "Lewishastwosonswho are15and 11yearsoldrespectively. In18years,Lewis'agewillbeequaltothesumofhissons' age.HowoldisLewisnow?",
+            "options": [
+              "30",
+              "There is insuf\u0002cient datatoanswer.",
+              "52",
+              "26",
+              "44 3 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
           },
           {
-            "text": "Calculate the derivative of f(x) = x² + 3x - 2",
-            "options": ["f'(x) = 2x + 3", "f'(x) = x + 3", "f'(x) = 2x - 3", "f'(x) = 2x"],
-            "correctAnswer": 0,
-            "explanation": "The derivative of f(x) = x² + 3x - 2 is f'(x) = 2x + 3, since the derivative of x² is 2x, the derivative of 3x is 3, and the derivative of -2 is 0."
+            "text": "Find ‚ such that = I M ( ‚ ) + M C H ( ‚ ) = \u000e .",
+            "options": [
+              "‚ = u \u0012",
+              "‚ = \u000e",
+              "‚ = u",
+              "‚ = u \u0010",
+              "‚ = \u0011 u \u0012"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
           },
           {
-            "text": "If a circle has a radius of 4 units, what is its area?",
-            "options": ["16π square units", "8π square units", "4π square units", "12π square units"],
-            "correctAnswer": 0,
-            "explanation": "The area of a circle is given by the formula A = πr², where r is the radius. With r = 4, we get A = π(4)² = 16π square units."
+            "text": "Considertheequation MCH ( ‚ ) = \u0010 < ,with \u000e \u0014 ‚ \u0014 u .This equationhas at least one solution if andonlyif:",
+            "options": [
+              "< \u0015 \u000f",
+              "\u000f \u0014 < \u0014 \u0010",
+              "< \u0014 \u0010",
+              "\u000f \u0014 < \u0014 \u000f",
+              "\u000f \u0014 < \u0014 \u0011 4 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
           },
           {
-            "text": "Simplify the expression: (3x² - 2x + 5) - (x² + 3x - 1)",
-            "options": ["2x² - 5x + 6", "2x² - 5x - 6", "4x² - 5x + 6", "2x² + x + 6"],
-            "correctAnswer": 0,
-            "explanation": "(3x² - 2x + 5) - (x² + 3x - 1) = 3x² - 2x + 5 - x² - 3x + 1 = 2x² - 5x + 6"
+            "text": "If ‚ isareal number,theinequality ‚ \u0012 + \u0013 \u0013 \u000e issatis\u0002edfor:",
+            "options": [
+              "all ‚",
+              "‚ = \u0013",
+              "no values of ‚",
+              "‚ \u0015 \u0013",
+              "‚ \u0013 \u0012 p \u0013"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
           },
           {
-            "text": "Find the solution set of the inequality: 2x - 3 > 5",
-            "options": ["x > 4", "x < 4", "x > 1", "x < 1"],
+            "text": "If ‚ isarealnumber,whatisthesolutionsetofthefollowing inequality? ‚ + \u0011 ‚ + \u000f \u0015 \u0010",
+            "options": [
+              "\u000f \u0013 ‚ \u0014 \u0010",
+              "‚ \u0014 \u000f",
+              "‚ \u0015 \u000f",
+              "‚ \u0013 \u000f",
+              "\u000f \u0013 ‚ \u0014 \u000f 5 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
+          },
+          {
+            "text": "If we divide ‚ \u0013 \u0011 ‚ \u0012 + \u0011 by ‚ + \u000f the remainder is:",
+            "options": [
+              "\u000f",
+              "\u000f",
+              "\u0011",
+              "\u000e",
+              "‚ \u000f"
+            ],
             "correctAnswer": 0,
-            "explanation": "2x - 3 > 5\n2x > 5 + 3\n2x > 8\nx > 4"
+            "explanation": "Answer: A. Short explanation not yet provided."
+          },
+          {
+            "text": "Consideran isosceles righttriangle ) . Thesumofthecosines oftheinternalanglesof ) is:",
+            "options": [
+              "\u0010",
+              "\u000f",
+              "p \u0011",
+              "\u000f + p \u0010",
+              "p \u0010 6 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
+          },
+          {
+            "text": "Whichofthefollowingequalitiesissatis\u0002edforallrealnum- bers ‚ and J ?",
+            "options": [
+              "\u0011 ‚ + J \u0011 ‚ J = \u0011 ‚ \u0010 J \u0010",
+              "\u0011 ‚ + J \u0011 ‚ J = ( \u0011 ‚ ) \u0010",
+              "\u0011 ‚ + J \u0011 ‚ J = \u0011 ‚ \u0010 \u0011 J \u0010",
+              "\u0011 ‚ + J \u0011 ‚ J = \u0011 ‚ \u0010",
+              "\u0011 ‚ + J \u0011 ‚ J = \u0011 ‚ ( \u0011 J \u0011 J ) 7 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
+          },
+          {
+            "text": "Consideracirclewithcentre $ anda1 =G -longradius.Let % be a point outsidethiscircle. Thetangentlinesfrom % tothecirclemeetthecircumference intwopoints and \u0017 . We know that the area of %$\u0017 is equal to p \u0011 = G \u0010 .What is thedistancebetween % and $ ?",
+            "options": [
+              "\u0011 = G",
+              "\u0010 = G",
+              "\u0012 = G",
+              "p \u0011 \u0010 = G",
+              "\u0011 \u0010 = G 8 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
+          },
+          {
+            "text": "Let ‚ beanonŒzerorealnumber.Theequation ‚ + \u000f ‚ = < has oneandonlyonesolutionif:",
+            "options": [
+              "< = \u000f",
+              "< = \u0011",
+              "< = \u0011",
+              "< = \u000f",
+              "< = \u0010 11.TheCartesianequation ‚ \u0010 + J \u0010 + \u0012 ‚ = i with i a positive real number, represents: A. a circumference centred in ( \u0010 \u0004 \u000e ) with radius p i + \u0012 B. a circumferencecentredin ( \u000e \u0004 \u0012 ) with radius p i + \u0010 C. a circumferencecentredin ( \u000e \u0004 \u000e ) with radius p i D. a circumferencecentredin ( \u0012 \u0004 \u000e ) with radius p i + \u0010 E. a circumference centred in ( \u000e \u0004 \u0010 ) with radius p i + \u0012 9 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
+          },
+          {
+            "text": "TheCartesianequation ‚ \u0010 + J \u0010 + \u0012 ‚ = i with i a positive real number, represents:",
+            "options": [
+              "a circumference centred in ( \u0010 \u0004 \u000e ) with radius p i + \u0012",
+              "a circumferencecentredin ( \u000e \u0004 \u0012 ) with radius p i + \u0010",
+              "a circumferencecentredin ( \u000e \u0004 \u000e ) with radius p i",
+              "a circumferencecentredin ( \u0012 \u0004 \u000e ) with radius p i + \u0010",
+              "a circumference centred in ( \u000e \u0004 \u0010 ) with radius p i + \u0012 9 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Answer: A. Short explanation not yet provided."
+          },
+          {
+            "text": "Let ‚ be apositive real numberand ı ( ‚ ) = F I A \u000f\u000e ‚ . Then ı ( \u000f \u000e \u0001 ‚ \u0010 ) is equal to:",
+            "options": [
+              "\u000f ı ( ‚ )",
+              "\u0010 \u0010 ı ( ‚ )",
+              "\u000f \u0010 ı ( ‚ )",
+              "\u000f \u0010 ı ( ‚ )",
+              "\u0010 ı ( ‚ ) 10 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "Considerasemicirclewithdiameter \u0017 = \u0010 = G andcentre $ .Ifwetakeawaythesemicircleofdiameter $ ,thenwe rotatetheresulting\u0002gurealong \u0017 by \u0011\u0014\u000e \u000e ,weobtaina solidwhosevolumeis:",
+            "options": [
+              "\u0010 \u0013 \u0011 u = G \u0011",
+              "\u0015 \u0014 u = G \u0011",
+              "\u0013 \u0014 u = G \u0011",
+              "\u0012 u = G \u0011",
+              "\u0010 \u0011 u = G \u0011 11 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
+          },
+          {
+            "text": "How many points % ( ‚ \u0004 J ) on a Cartesian plane satisfy the followingconditions? ( ‚ + J ) \u0010 = \u000f \u0004 ‚ \u0010 + J \u0010 = \u000f \u0004 ‚ + J \u0014 \u000e",
+            "options": [
+              "One.",
+              "Two.",
+              "In\u0002nite.",
+              "Zero.",
+              "Four."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
+          },
+          {
+            "text": "Considertwopoints ( \u000e \u0004 \u000e ) and \u0017 ( \u000f \u0004 \u000f ) onaCartesianplane. Theequationoftheaxisofthesegment \u0017 is:",
+            "options": [
+              "J = \u000f \u0010 ‚",
+              "J = \u0010 ‚",
+              "J = \u000f ‚ \u0010",
+              "J = \u000f ‚",
+              "J = \u000f ‚ \u0010 12 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Answer: D. Short explanation not yet provided."
+          },
+          {
+            "text": "The number \u0012 \u000f p \u0014 \u0012 \u0013 \u000f \u0006 \u0012 is equivalent to:",
+            "options": [
+              "\u0011 p \u0010",
+              "\u0011 \u0010 p \u0010",
+              "\u0010 \u0012 \u0013 \u0006 \u0012",
+              "\u0010 \u0012 \u0014 \u0012",
+              "\u0011 \u0010 13 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "The following expression • \u0011 \u0010\u000e + \u0011 \u0010\u000e + \u0011 \u0010\u000e − \u000f \u0006 \u0011 ( \u0011 \u0011 ) \u0010 is equal to:",
+            "options": [
+              "\u0011 \u0010",
+              "\u000f",
+              "\u0011",
+              "\u000f \u0011",
+              "\u000f \u0017 14 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "Let & beasquareofside – , ˘ \u000f acirclecircumscribedaround & , and ˘ \u0010 a circle inscribed in & . The ratio between theareaof ˘ \u000f and the area of ˘ \u0010 is:",
+            "options": [
+              "\u0012",
+              "\u0010",
+              "p \u0010",
+              "depends onthevalueof –",
+              "\u0010 p \u0010 15 1 - Mathematics CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
+          },
+          {
+            "text": "Consideranequilateraltriangle \u0017˘ whosesideis2 =G long. Let ˇ , ˆ ,and ˙ bethemidpointsof \u0017 , \u0017˘ ,and ˘ respec- tively.Findtheareaoftherhombus ˇ ˆ ˘˙ .",
+            "options": [
+              "p \u0011 \u0010 = G \u0010",
+              "\u0010 = G \u0010",
+              "p \u0011 = G \u0010",
+              "p \u0010 = G \u0010",
+              "\u000f p \u0011 = G \u0010"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Answer: A. Short explanation not yet provided."
+          },
+          {
+            "text": "\u0011 \u000e \u0003 ofthestudentsenrolledinauniversitycoursepassed the \u0002nal exam during the\u0002rst session. \u000f\u000e\u0003 of the remaining studentspassedtheexamduringthesecondsession. Howmany studentsstillhaveto passtheexamafterthe\u0002rst twosessions?Expressthe resultasa percentageof thetotal numberofstudentsenrolledinthecourse.",
+            "options": [
+              "\u0011 \u0015 \u0003",
+              "\u0014 \u0011 \u0003",
+              "\u0015 \u000e \u0003",
+              "\u0014 \u000e \u0003",
+              "\u0012 \u000e \u0003 16 2 - Logic CISIAŒTOLC-ISampleTest LOGIC"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
           }
         ]
       },
       {
         "name": "Logic",
-        "questionCount": 13,
+        "questionCount": 10,
         "questions": [
           {
-            "text": "If all A are B, and all B are C, which of the following statements must be true?",
-            "options": ["All A are C", "All C are A", "No A are C", "Some C are not A"],
-            "correctAnswer": 0,
-            "explanation": "If all A are B, and all B are C, then by the transitive property of logical implication, all A must be C."
-          },
-          {
-            "text": "In a group of 25 students, 15 study mathematics and 10 study physics. If 5 students study both subjects, how many students study neither mathematics nor physics?",
-            "options": ["5", "10", "15", "20"],
-            "correctAnswer": 0,
-            "explanation": "Using the formula: Total = Math + Physics - Both + Neither\n25 = 15 + 10 - 5 + Neither\n25 = 20 + Neither\nNeither = 5"
-          },
-          {
-            "text": "If it is not true that 'if it rains, then the ground is wet', which of the following must be true?",
-            "options": ["It rains and the ground is not wet", "It does not rain and the ground is wet", "It rains and the ground is wet", "It does not rain and the ground is not wet"],
-            "correctAnswer": 0,
-            "explanation": "The negation of 'if P, then Q' is 'P and not Q'. So the negation of 'if it rains, then the ground is wet' is 'it rains and the ground is not wet'."
-          },
-          {
-            "text": "In a sequence, each term after the first two is the sum of the two preceding terms. If the first two terms are 1 and 3, what is the 5th term?",
-            "options": ["11", "8", "13", "21"],
-            "correctAnswer": 0,
-            "explanation": "The sequence starts: 1, 3, 4, 7, 11, ...\nWhere 4 = 1+3, 7 = 3+4, and 11 = 4+7. So the 5th term is 11."
-          },
-          {
-            "text": "If P implies Q, and Q implies R, but R does not imply P, which of the following diagrams best represents the relationship?",
-            "imageUrl": "https://via.placeholder.com/400x200?text=Logic+Diagram+Question",
+            "text": "Consider the followingnumbers: \u0010 \u0004 \u0010 \u0017 \u0004 \u0011 \u0014 \u0004 \u0012 \u0011 \u0004 \u0013 \u0013 Wewantto order themsothateach oddnumberis inanodd position, and each even numberis in an even position. How manywaysaretheretoorderthemgiventhiscondition?",
             "options": [
-              "https://via.placeholder.com/200x200?text=Option+A",
-              "https://via.placeholder.com/200x200?text=Option+B",
-              "https://via.placeholder.com/200x200?text=Option+C",
-              "https://via.placeholder.com/200x200?text=Option+D"
+              "\u0011",
+              "\u0010 \u0012",
+              "\u000f \u0010",
+              "\u0013",
+              "\u0014 17 2 - Logic CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "In a buildinghallthereisthefollowingwarning: It is allowed toplayfootballinthecourtyard,excepton Sundays and between 1p.m.and 4 p.m. Thereforeinthis building:",
+            "options": [
+              "it is not forbidden to play football in the courtyard at12 (noon), provided that it's notSunday",
+              "itisnotforbiddentoplayfootballinthecourtyardon Sundaysafter4p.m.",
+              "anydayotherthanSundayitisforbiddennottoplay footballinthecourtyardbefore1p.m.andafter4p.m.",
+              "itisnotforbiddentoplayfootballinthecourtyardat2 p.m.,providedthatit'snotSunday",
+              "itisnotforbiddentoplayfootballinthecourtyardat2 p.m.,providedthatit'sSunday 18 2 - Logic CISIAŒTOLC-ISampleTest"
             ],
             "correctAnswer": 0,
-            "explanation": "If P implies Q and Q implies R, then P is a subset of Q, and Q is a subset of R. However, since R does not imply P, R is not a subset of P. This is best represented by nested circles where P is inside Q, and Q is inside R."
+            "explanation": "Answer: A. Short explanation not yet provided."
+          },
+          {
+            "text": "UncleScroogeforgotthe combination thatopenshiselec- tronicvault.Heonlyremembersthat: ‹ thecombinationismadeby4differentdigits(from0to 9) ‹ it does not contain4 ‹ the third digitishalfofthefourth ‹ thedigitsareinascendingorderfromthe\u0002rstonethe lastone What is the minimum number of attemptsUncle Scrooge has tomaketobesuretoopenhisvault?",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6",
+              "2 19 2 - Logic CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Answer: A. Short explanation not yet provided."
+          },
+          {
+            "text": "Martha,a bookkeeper,has 195euros andno coins. A client ofthebookshopasksifshecanbreaka10,a20,a50,ora 100eurosbanknote,butunfortunatelyheranswerisalways no. How many 20 euros banknotes does Martha have (consider- ing that the lowestŒvaluebanknoteis5euros)?",
+            "options": [
+              "1",
+              "4",
+              "3",
+              "2",
+              "0 20 2 - Logic CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Answer: D. Short explanation not yet provided."
+          },
+          {
+            "text": "ChefJohnnoticedthat, ifhedoesnotuseagasoven,roasted meatremainsrawinsideorbecomesburntoutside(orboth). Thereforewecaninferthat:",
+            "options": [
+              "ifthemeatiswellcookedinside,itmusthavebeen cookedinagasoven",
+              "ifthemeatiswellcookedinsideorisnotburntoutside, itmusthavebeencookedinagasoven",
+              "if themeat is wellcooked insideandis not burnt outside, itmusthavebeencookedinagasoven",
+              "ifthemeatisrawinside,ithasnotbeencookedinagas oven",
+              "ifthemeathasbeencookedinanelectricoven,themeat israwinsideandburntoutside 21 2 - Logic CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "ThegreatmathematicianCountalotdiscoveredthe Incredible numbers;hedoesnotknowyetiftheyare\u0002niteorin\u0002nite, buthemadethefollowingconjecture: If they are in\u0002nite,thenatleastoneofthemhas8distinct prime factors. One of hisstudents,Countagain,showed that Countalot's conjectureisfalse.Thereforeheprovedthat:",
+            "options": [
+              "if Incredible numbersare\u0002nite,thennoneofthemhas8 distinctprimefactors",
+              "if Incredible numbersare\u0002nite,thenallofthemhave8 distinctprimefactors",
+              "Incredible numbers are in\u0002nite",
+              "Incredible numbersarein\u0002niteandnoneofthemhas8 distinctprimefactors",
+              "Incredible numbersarein\u0002niteandallofthemhave8 distinctprimefactors 22 2 - Logic CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Answer: D. Short explanation not yet provided."
+          },
+          {
+            "text": "Archaebacteria aresingleŒcelledorganismsthatliveinponds andreproduceby\u0002ssion(i.e.eachbacteriumsplitsintwo identicalorganisms).Ifyouputone archaebacterium ina certain pond,itwillreproduce by\u0002ssion oncea day;in 30 days,the whole pondsurfacewill be completely covered bybacteria.Howmanydayswillittaketocoverthewhole surface,ifweinitiallyputtwobacteriainthepond?",
+            "options": [
+              "30 days.",
+              "28 days.",
+              "29 days.",
+              "It dependsonthepondsurfacearea.",
+              "15 days. 23 2 - Logic CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "Asurveyisconductedamongall1000inhabitantsofthe townofSparagnawhoareolderthan55.Theresultsshow that 40%of themown a fridge,25% ofthem own aTV, and 15%ofthemownboth.Therefore,inthetownofSparagna:",
+            "options": [
+              "among those who are younger than 55,less than 40% ownsafridge",
+              "amongthosewhoareolder than55,lessthan45%owns aTVorafridge",
+              "amongthosewhoareolderthan55,50%doesnotown aTVnorafridge",
+              "amongthosewhoareyoungerthan55,morethan25% ownsaTV",
+              "amongthosewhoareolderthan55,morethan50% ownsaTVorafridge 24 2 - Logic CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "Whichpairofnumbers ‚\u0004J shouldbeinsertedintothe followingtable? \u000f \u0011 \u0014 \u000f \u000e ‚ \u0010 \u000f \u0010 \u000f \u0010 \u0014 \u0010 \u0012 \u000f \u0010 \u000e J \u0013 \u000e \u0012\u000e",
+            "options": [
+              "‚ = \u000f \u0012 and J = \u0015 \u0010 \u000e",
+              "‚ = \u000f \u0012 and J = \u0010 \u0012 \u000e",
+              "‚ = \u000f \u0013 and J = \u0015 \u0010 \u000e",
+              "‚ = \u000f \u0010 and J = \u0010 \u0012 \u000e",
+              "‚ = \u000f \u0013 and J = \u0010 \u0012 \u000e 25 2 - Logic CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "In a conversationwithherfriends,Juliastatesthat: We all like coffee,exceptPaula,whodoesnotlikeit. Caroline points out that Juliaiswrong.Therefore:",
+            "options": [
+              "all of Julia'sfriendslikecoffee",
+              "Paula likescoffee",
+              "oneofJulia'sfriends,whoisnotPaula,doesnotlike coffee",
+              "PaulalikescoffeeorthereissomeoneamongJulia's friends,otherthanPaula,whodoesnotlikecoffee",
+              "it is notpossible that only one ofJulia's friends does not likecoffee 26 3 - Science CISIAŒTOLC-ISampleTest SCIENCE"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Answer: D. Short explanation not yet provided."
+          }
+        ]
+      },
+      {
+        "name": "Science",
+        "questionCount": 10,
+        "questions": [
+          {
+            "text": "Twobodies and \u0017 havethesame volumeandmasses > \u0017 = \u0011 > .Bothbodiesarecompletelyimmersedinaliquid, andareinitiallyheldstill.Whentheyareletgo,thebuoyant forceexertedbytheliquidon \u0017 is:",
+            "options": [
+              "equal to thebuoyantforceexertedon",
+              "9 timestheforceexertedon",
+              "3 times the force exertedon",
+              "one ninthoftheforceexerted on",
+              "one thirdoftheforceexerted on 27 3 - Science CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Answer: A. Short explanation not yet provided."
+          },
+          {
+            "text": "Abodyofweight % , placedcloseto theEarth'ssurface, is let fallfrom rest.Let 8 be thegravitational acceleration and lettheairresistancebenegligible.Thenthekineticenergy possessedbythebodyafter E seconds is:",
+            "options": [
+              "( \u000f \u0006 \u0010 ) % 8 E",
+              "( \u000f \u0006 \u0010 ) % 8 E \u0010",
+              "\u0010 % 8 E",
+              "\u0010 % 8 E \u0010",
+              "( \u000f \u0006 \u0010 ) % 8 \u0010 E \u0010 28 3 - Science CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
+          },
+          {
+            "text": "ApipewithconstantcrossŒsectionalarea ( isbentintoa UŒshape.Onesideofthepipeisopenwhereastheother oneisclosedbyacap ) (asinthe\u0002gure).Thepipeis\u0002lled withwater(density v )thatreachesheights ˛ ed 9 inthetwo arms.Theforcethatthewaterexertson ) is equal to:",
+            "options": [
+              "v 8 ( ˛ 9 ) , downwards",
+              "v 8 9 , upwards",
+              "v 8 ˛( , upwards",
+              "v 8 ( ˛ + 9 ) , downwards",
+              "v 8 ( ˛ 9 ) ( , upwards 29 3 - Science CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
+          },
+          {
+            "text": "Aheatenginehasa75%ef\u0002ciency.Howmuchheatis absorbedduringafull cycleifthetotalworkproducedbythe engineisequalto \u0011 \u0004 \u0014 E & ?",
+            "options": [
+              "\u0010 \u0004 \u0015 E &",
+              "\u0012 \u0004 E &",
+              "\u000f \u0012 \u0004 \u0012 E &",
+              "\u000e \u0004 \u0017 E &",
+              "\u0011 \u0004 \u0014 E &"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
+          },
+          {
+            "text": "In the periodictable,chemicalelementsareorderedby:",
+            "options": [
+              "number of protons",
+              "alphabetical order",
+              "abundance in the universe",
+              "size",
+              "year of discovery 30 3 - Science CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Answer: A. Short explanation not yet provided."
+          },
+          {
+            "text": "Sound is:",
+            "options": [
+              "awavethatpropagatesinanelasticmediumwitha speedthatdependsonthemediumitself",
+              "anelasticwavethatpropagatesinvacuumataspeedof \u0011\u0012\u000e G \u0006 M",
+              "awavethatpropagatesinanelasticmediumataspeed of \u0011 \u000e \u000e \u000e\u000e\u000e E G \u0006 M",
+              "anelasticwavethatpropagatesinvacuumataspeedof \u0011\u000e\u000e \u000e\u000e\u000e EG \u0006 M",
+              "awavethatpropagatesinvacuumandallmaterialmedi- umsataspeedof \u0011 \u0012 \u000e G \u0006 M 31 3 - Science CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Answer: A. Short explanation not yet provided."
+          },
+          {
+            "text": "Youmix60litersofwaterat \u0010\u000e \u000e ˜ with20litersofwater at \u0014\u000e \u000e ˜ .Neglectingheatdispersion,the\u0002naltemperature reachedis:",
+            "options": [
+              "\u0010 \u0013 \u000e ˜",
+              "\u0010 \u000e ˜",
+              "\u0012 \u000e \u000e ˜",
+              "\u0011 \u000e \u000e ˜",
+              "\u0011 \u0013 \u000e ˜ 32 3 - Science CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Answer: D. Short explanation not yet provided."
+          },
+          {
+            "text": "Two metallic spheres and \u0017 are suspendedfrom the ceiling byinsulatingwires. Apositivelychargedglassrodis\u0002rst broughtnear ,thennear \u0017 ,withouttouchingthem.We observethat isattractedtotherod,whereas \u0017 isrepelled byit.Thereforewecaninferthat:",
+            "options": [
+              "both and \u0017 could be electrically neutral",
+              "\u0017 is positively charged",
+              "both and \u0017 are negatively charged",
+              "isnegativelycharged,whereas \u0017 couldbeeitherposi- tivelychargedorneutral",
+              "is negatively chargedand \u0017 is positively charged 33 3 - Science CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
+          },
+          {
+            "text": "Letﬁ \u0001 ﬂrepresentthescalarproductandﬁ \u0002 ﬂthevectorprod- uct.Whichofthefollowingoperations givesthemagnitude oftheprojectionofvector ~ ‰ on vector ~ 3 ?",
+            "options": [
+              "~ ‰ \u0002 ~ 3 j ~ 3 j",
+              "~ ‰ \u0002 ~ 3",
+              "~ ‰ \u0001 ~ 3",
+              "~ ‰ + ~ 3",
+              "~ ‰ \u0001 ~ 3 j ~ 3 j"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
+          },
+          {
+            "text": "A train travels at aspeed of \u000f\u0012\u0012 EG \u0006 B .Itswheelsper- fectlyadheretotherails(nosliding)andhaveadiame- ter 5 = \u000e = G .How many turns do they do in one second, roughly?",
+            "options": [
+              "8",
+              "57",
+              "32",
+              "115",
+              "16 34 4 - ReadingComprehension CISIAŒTOLC-ISampleTest READING COMPREHENSION INSTRUCTIONS ThissectionoftheTestconsistsofoneormoreexcerptstakenfrom workspublishedinEnglish.Thetexthasnotbeenmodi\u0002edinany wayandre\u0003ectsthewritingstylestypicalofthetimeandcontextin whichtheauthorslived. Each text isfollowed by \u0002ve questionswith \u0002ve closed answers labelledwithcapitallettersfromAtoE. Foreachquestionchoosetheansweryouconsidercorrectbased on whatis explicitly orimplicitly stated; inotherwordsbase your answeronlyonwhatiswritteninthetext,andnotonwhatyou mightalreadyknowaboutthesubject. 35 4 - ReadingComprehension CISIAŒTOLC-ISampleTest TEXT I The development ofelectronic publishing in small markets From: Ivona Despot andTomislavJakopec, The strategy for the development of electronic publishinginsmallmarkets ,Libellarium: journalfortheresearchofwriting,books,andculturalheritage institutions, [S.l.], v.6,n. 1-2, p.81Œ 90, mar. 2014. [1] Throughouthistory,publishinghasadjustedtomarketrequire- ments, aimingforcheaperproductionandbookpricesinorder toattractalargernumberofreaders. Today,inthemajorityof developedpublishingmarkets,e-bookshavebecomepartofthe publishingbusiness.However,everynewtechnologycanrepresent afactorof\"creativedestruction\":transistorsputanendtothecath- odetubeindustry,andphotocopyingtotheindigopaperindustry. So, canthedigitizedbookbeconsideredamilestoneinthehistoryof publishingandwhataretheconsequences?Thisstudypresentsnew trendsandattemptstopredicttheirpotentialimpactonpublishing, witha specialfocuson smalllinguisticdistribution marketssuchas theCroatianbookmarket. [2] Whileontheonehand, someexpertspredictthecollapseof majorpublishersandbooksellersduetotheirfailuretofocusonthe future needs of readersinthe digital environment,on the other,poor salesofe-publications andhighpricesof e-readershave ledpub- lisherstoquestionthefuturesuccessofthee-publishingbusiness. 36 4 - ReadingComprehension CISIAŒTOLC-ISampleTest Claimsthate-publishingneedstobepromotedthroughconferences inorder tobecomelucrative supportthisskepticism.However, the mostlikelyoutcomeisabalancebetweencontinuityanddiscon- tinuity.Whileitistruethatpeopledonotrejecttheiroldhabits andactivitieswheneveranew technologyemerges,itiscommonly believedthatthe advancementoftechnologyand theemergence of asimplerandcheaperprocessofdigitization,willprobablyleadto anincreasedmarketforcontentpublishedindigitalform. [3] Seenfromtheperspectiveofaspiringauthors, expertMihaKovac af\u0002rms thatdigital technology hasturned book publishinginto one ofthemostdemocraticmediaindustries.Today,onlinebookstores offertitlespublishedbytheauthorsthemselves,withoutof\u0002cial publishers. Applehaslaunchedthe iBooksAuthor programmewhich allowsthe authortoshape hisworkgraphically andforward itdi- rectlytothebookstore.Technologyhascheapenedandsimpli\u0002ed thebookpublishingprocess,andopenedthedoortonewplayers. Enrichede-bookswithadded videoandaudiocontentoffernew dimensions to the reading experience.As for the traditional role of thepublisher,therapiddevelopmentofself-publishinginevitably leadstocontentoverproductionofvaryingquality.Consequently,a publisheris neededto helpthereadersselect thebestcontent avail- able.Thebookchainischanging,thepublisher'sroleisadjustingto thenewsystem,butitisstillconsideredverynecessary. [4] Sowhatdoesthefuturehold?Ontheonehand, information andcommunicationtechnologyisdevelopingatsucharapidrate thatfuture productsandservices cannotbeeasily predicted.Lead- ingcompaniesinthis\u0002eldkeeptheirfutureproductsandservices secretuntilmarketplacementinordertoprotectthemselvesfrom 37 4 - ReadingComprehension CISIAŒTOLC-ISampleTest competition.However,meetingtheindividualneedsofeachuseris essential.Withthisin mind,thepublishing industryhasannounced theemergenceofthe\"payasyouread\"businessmodelallowing partialpaymentofcontent,unlikethepreviouspracticeofpayingfor thewholeunit.Thisisparticularlyusefulinthe\u0002eldofacademicand scienti\u0002cpublicationsallowing,forexample, eachusertopurchasea singlearticleratherthananentirejournaloronechapterinsteadof thewholebook.Userscancreatethebooktheyneedbycombining differentarticlesorchapters. [5] Therecanbenodoubt,therefore,thate-publishingishereto stay.However,whenitcomestosmallmarkets,likeCroatia,the twofactorsaffectingthedevelopmentofe-publishingaremarket sizeandlanguagecoverage.AccordingtoDigitalAgendaforEurope indicators,Croatiansocietydoesnotyetpossessthenecessarypre- requisitesfor successful e-publishing,but it is slowly moving towards thatgoal.Consequently,e-bookpublishingdevelopmentstrategies shouldbeaimedtowardsensuringalong-termculturaldevelopment interms ofdigitalinfrastructure andinternetuse,whereas thecon- creteimplementationofthisnewdevelopmentshouldbelefttothe marketinquestion. 38 4 - ReadingComprehension CISIAŒTOLC-ISampleTest TEXT I QUESTIONS"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
           }
         ]
       },
@@ -86,101 +506,124 @@
         "questionCount": 10,
         "questions": [
           {
-            "text": "Read the following passage and answer the question:\n\nThe advancement of technology in engineering fields has revolutionized how we approach complex problems. Modern computational methods allow engineers to simulate and test designs before physical prototypes are built, saving time and resources. However, some argue that over-reliance on computer simulations may lead to overlooking practical considerations that only become apparent during physical testing.\n\nWhat is the main concern about using computer simulations according to the passage?",
+            "text": "The primary purpose of thepassageisto:",
             "options": [
-              "They might miss practical issues only found in physical testing",
-              "They are too expensive to implement",
-              "They take more time than traditional methods",
-              "Engineers lack the skills to use them effectively"
+              "presenttheresultsofstatisticalanalysesandpropose furtherstudies",
+              "explainarecentdevelopmentandpredictitseventual consequences",
+              "identifythe reasons for anegative trend and recommend measurestoaddressit",
+              "outlineseveraltheoriesaboutmajortechnological changesfromthepast",
+              "reconcile con\u0003icting research \u0002ndings 39 4 - ReadingComprehension CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
+          },
+          {
+            "text": "In paragraph [2] ,theauthorstatesthat:",
+            "options": [
+              "there is general agreement that e-publishing willsoon replacepaperbooks",
+              "expertsbelievethate-publicationswilldominatethe scienti\u0002csphere",
+              "technologicaladvancesenablingcheaperdigitalization willmakee-publicationsmorepopular",
+              "manyimportantpublishersareinserious\u0002nancialdif\u0002- cultyduetotheriseine-publications",
+              "conferencespromotinge-bookshavebeenverysuccess- ful 40 4 - ReadingComprehension CISIAŒTOLC-ISampleTest"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "Accordingtoparagraph [3] ,duetoanincreaseinself- publishing:",
+            "options": [
+              "the publisher's roleischanging",
+              "the qualityofpublishinghasimproved",
+              "publishers are no longer necessary",
+              "there is moreneedfordigitalexperts",
+              "publishing has becomemoreexclusive"
             ],
             "correctAnswer": 0,
-            "explanation": "The passage states that 'some argue that over-reliance on computer simulations may lead to overlooking practical considerations that only become apparent during physical testing,' indicating that missing practical issues is the main concern."
+            "explanation": "Answer: A. Short explanation not yet provided."
           },
           {
-            "text": "Read the following passage and answer the question:\n\nThe field of materials science continues to develop new composites with properties that were once thought impossible. These advanced materials combine the beneficial properties of multiple substances while minimizing their individual weaknesses. For instance, carbon fiber reinforced polymers offer the strength of metals at a fraction of the weight, making them ideal for aerospace applications.\n\nAccording to the passage, what is a key advantage of carbon fiber reinforced polymers?",
+            "text": "The author states in paragraph [4] that, today, publishers:",
             "options": [
-              "High strength-to-weight ratio",
-              "Low production cost",
-              "Electrical conductivity",
-              "Heat resistance"
+              "requirepaymentonly if the readerlikesthebook",
+              "share newproductsand serviceswith rival publishing houses",
+              "areparticularlyinterestedindevelopingthescienti\u0002c market",
+              "no longerprotectworksbycopyright",
+              "must aim tosatisfytheneeds of individual users 41 4 - ReadingComprehension CISIAŒTOLC-ISampleTest"
             ],
-            "correctAnswer": 0,
-            "explanation": "The passage mentions that carbon fiber reinforced polymers 'offer the strength of metals at a fraction of the weight,' which describes a high strength-to-weight ratio that makes them 'ideal for aerospace applications.'"
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
           },
           {
-            "text": "Read the following passage and answer the question:\n\nQuantum computing represents a paradigm shift in computational capabilities. Unlike classical computers that use bits (0 or 1), quantum computers use quantum bits or 'qubits' that can exist in multiple states simultaneously due to superposition. This property potentially allows quantum computers to solve certain problems exponentially faster than classical computers, particularly in areas such as cryptography, material science, and complex system modeling.\n\nWhat fundamental property gives quantum computers their advantage according to the passage?",
+            "text": "In the \u0002nalparagraph( [5] ),theauthorstatesthatCroatia:",
             "options": [
-              "Superposition",
-              "Miniaturization",
-              "Higher processing speeds",
-              "Lower energy consumption"
+              "hasthenecessaryfoundationsonwhichtodevelopan e-publishingmarket",
+              "has aprosperouse-publishingmarket",
+              "willnotbeabletodevelopane-publishingmarketdue toitslimitedlanguagecoverage",
+              "needstodevelopitsbroadbandnetworkandreducethe digitaldivide",
+              "willnotbeabletodevelopane-publishingmarketdue toitssmallmarketsize 42 4 - ReadingComprehension CISIAŒTOLC-ISampleTest TEXT II Coconut oil From: Renato da SilvaLima andJane MaraBlock, Coconut oil:what dowereallyknowaboutitsofar? ,FoodQualityandSafety,Volume 3,Issue2,May2019,pages61-72. [1] Coconutis oneofthe mostimportant foodsinvarious tropical andsubtropicalcountrieswherethecoconuttreeisreferredtoas the\"treeoflife\".Thecoconutisaveryusefulplantwithawide rangeofproductsbeingsourcedfromit.Coconutproductsareused tomakeeverythingfromclothingtoanimalfeedtobeautycreams. Itskernelisharvestedfor itsedible\u0003eshanddeliciouswater,while itshuskisusedforitsstrong\u0002bres.Mostimportant,however,are itsoils,whichareextracted,processed,andmarketedforculinary, medicinalandcosmeticusesalike.Theplantiscultivatedinmore than90countrieswithatotalyieldof59milliontonnesin2016. TheproductionofcoconutisextremelyimportantinAsia,whichis responsibleforover80percentoftheworld'scoconutproduction. [2] Intropicalcountries,coconutoilhasalwaysbeenusedasa cookingoilandinthelate 19thcentury,thedemandforedibleoils alsobegantoincreaseinEuropeandintheUSA.OnceEuropeans becameawareofthepossibilitiesofferedbythefruitandrecognised itsversatility,theystartedestablishingcoconutplantationsinthe Caribbean,SoutheastAsia,andtheSouthPaci\u0002candfromthe1890s onwards,coconutoilbecameverypopularinEuropeancountries andintheUSAasanedibleoil.This\u0002rstcoconutoilboomlasted 43 4 - ReadingComprehension CISIAŒTOLC-ISampleTest untiltheonsetofWorldWarII,around1940,whenthesupplyofthe product was cut off to Western countries leadingto a coconutoil shortage.As aresult of this scarcity,the price of the commodity surged, thus pavingtheway fortherivalsoybeanoilindustryto expand and develop. The shiftto soybean oil was furtheraided by theuse of more moderntechnology which was employedin the processingfacilitiesoftheproduct. [3] Once the war wasover, countries with high coconut production triedtoreintroducethefruitintoWesterncountriesbutwithlittlesuc- cess.Coconutoilwasrejectedatthispointduetoitshigh-saturated fatcontent.Thisrejectionwasassociatedwiththe\u0002ndingsofepi- demiologicalstudiesconductedbytheAmericanphysiologist,Ancel Keys,whoformulatedahypothesisoftheassociationbetweenthe consumptionofhigh-saturatedfatwithahighbloodcholesterollevel andthereforethe increasedlikelihoodofcardiovasculardisease. In 1956,in paralleltoKeys' research, theAmericanHeartAssociation started informingthe populationthatconsuming largequantities of high-saturatedfatfoodscouldincreasetheriskofcardiovascular disease.This, in turn,led to adecline in the popularity of coconut oilwhichwasknowntobehighinsaturatedfat. [4] Inrecentyears,however,coconutoilhasonceagainattracted the attentionof the population worldwide,especially inEurope and NorthAmerica.Celebrities,digitalin\u0003uencers,andevendoctors haveendorsedtheuseofthisoilasacookingmediuminsubsti- tutionof othervegetableoils andasa supplementaryingredient tobeconsumedwithcoffeeandvitaminshakes.Blogs,internet videos,andarticlesarenowpromotingtheconsumptionofcoconut oilasapotential\"miracle\"food.Somemediavehiclesandhealth 44 4 - ReadingComprehension CISIAŒTOLC-ISampleTest specialistsclaimthatthis oilis capableofpromotinghealthbene\u0002ts, such asweightloss andthe loweringof cholesterollevels as well ashavinganti-in\u0003ammatoryeffectsanditisnowaf\u0002rmedthatthe consumption ofcoconut oilmay actually helpin thepreventionof cardiovasculardiseases.Clearly,theseclaimsarenowbeingused by coconutoil companiesto marketthe product andboost sales. Nevertheless, governmental regulatory agenciesin many countries remainscepticalaboutthebene\u0002tsobtainedbytheconsumption ofcoconutoilduetoitshigh-saturatedfattyacidcontent.Ingen- eral,studiesinthis\u0002eldpresentcon\u0003ictingresultsandthereisa seriouslackoflongtermhuman-basedclinicaltrials.Therefore,as asaturatedfat,coconutoilshouldbeconsumedwithmoderation andthehealthallegationsshouldnotbeusedtomarkettheproduct consideringthattheyhavenotbeenscienti\u0002callyprovensofar. 45 4 - ReadingComprehension CISIAŒTOLC-ISampleTest TEXT II QUESTIONS"
             ],
-            "correctAnswer": 0,
-            "explanation": "The passage explains that quantum computers use qubits 'that can exist in multiple states simultaneously due to superposition' and that 'this property potentially allows quantum computers to solve certain problems exponentially faster.'"
+            "correctAnswer": 3,
+            "explanation": "Answer: D. Short explanation not yet provided."
           },
           {
-            "text": "Read the following passage and answer the question:\n\nThe concept of sustainable engineering has gained prominence as societies face increasing environmental challenges. This approach integrates environmental considerations into every stage of the engineering process, from material selection to end-of-life disposal. By adopting a lifecycle perspective, engineers can minimize resource consumption, reduce waste generation, and design products that are more easily recycled or repurposed.\n\nWhat key approach does sustainable engineering take according to the passage?",
+            "text": "The author of the passageisprimarilyconcerned with:",
             "options": [
-              "Lifecycle perspective",
-              "Cost reduction",
-              "Maximizing production efficiency",
-              "Regulatory compliance"
+              "exploring research underlying the usesofcoconuts",
+              "discussing the appeal of coconut oil and some concerns aboutitsuse",
+              "arguingfortheadoptionofcoconutoilinpromoting healthbene\u0002ts",
+              "comparingtheadvantagesofcoconutoil overotheredi- bleoils",
+              "clarifying thefutureofcoconutoilcompanies"
             ],
-            "correctAnswer": 0,
-            "explanation": "The passage states that 'By adopting a lifecycle perspective, engineers can minimize resource consumption, reduce waste generation, and design products that are more easily recycled or repurposed,' indicating that the lifecycle perspective is the key approach mentioned."
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
           },
           {
-            "text": "Read the following passage and answer the question:\n\nBiomimicry is an approach to innovation that seeks sustainable solutions to human challenges by emulating nature's patterns and strategies. For example, the design of the Japanese bullet train was inspired by the kingfisher's beak to reduce noise and improve aerodynamics. Similarly, Velcro was invented after its creator observed how burrs attached to his dog's fur. These innovations demonstrate how studying biological mechanisms can lead to significant technological advancements.\n\nWhat is biomimicry according to the passage?",
+            "text": "In paragraph [2] ,theexpression paving the way means:",
             "options": [
-              "Innovation inspired by nature's patterns",
-              "Creating artificial biological systems",
-              "Genetic modification of organisms",
-              "Using biological materials in construction"
+              "blocking the future",
+              "indicating themethod",
+              "making it easier",
+              "contrasting thedesire",
+              "giving an example 46 4 - ReadingComprehension CISIAŒTOLC-ISampleTest"
             ],
-            "correctAnswer": 0,
-            "explanation": "The passage defines biomimicry in its first sentence as 'an approach to innovation that seeks sustainable solutions to human challenges by emulating nature's patterns and strategies.'"
-          }
-        ]
-      },
-      {
-        "name": "Physics",
-        "questionCount": 10,
-        "questions": [
-          {
-            "text": "A car accelerates uniformly from rest to 20 m/s in 10 seconds. What is its acceleration?",
-            "options": ["2 m/s²", "0.5 m/s²", "10 m/s²", "20 m/s²"],
-            "correctAnswer": 0,
-            "explanation": "Using the formula v = u + at, where v is final velocity, u is initial velocity, a is acceleration, and t is time:\n20 = 0 + a(10)\na = 20/10 = 2 m/s²"
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
           },
           {
-            "text": "What is the SI unit of electric current?",
-            "options": ["Ampere", "Volt", "Ohm", "Watt"],
-            "correctAnswer": 0,
-            "explanation": "The SI unit of electric current is the ampere (A)."
-          },
-          {
-            "text": "Which of the following is a vector quantity?",
-            "options": ["Velocity", "Temperature", "Mass", "Energy"],
-            "correctAnswer": 0,
-            "explanation": "Velocity is a vector quantity because it has both magnitude and direction. Temperature, mass, and energy are scalar quantities."
-          },
-          {
-            "text": "A 2 kg object moving at 5 m/s collides with a stationary 3 kg object. If the collision is perfectly inelastic, what is the final velocity of the combined objects?",
-            "options": ["2 m/s", "5 m/s", "3.5 m/s", "1 m/s"],
-            "correctAnswer": 0,
-            "explanation": "In a perfectly inelastic collision, momentum is conserved. Using the formula m₁v₁ + m₂v₂ = (m₁ + m₂)v':\n(2 kg)(5 m/s) + (3 kg)(0 m/s) = (2 kg + 3 kg)v'\n10 kg·m/s = 5 kg·v'\nv' = 2 m/s"
-          },
-          {
-            "text": "Which of the following diagrams correctly represents the electric field lines around a positive charge?",
-            "imageUrl": "https://via.placeholder.com/400x200?text=Electric+Field+Question",
+            "text": "Accordingtoparagraph [2] ,whichofthefollowingstate- mentsistrue?",
             "options": [
-              "https://via.placeholder.com/200x200?text=Option+A",
-              "https://via.placeholder.com/200x200?text=Option+B",
-              "https://via.placeholder.com/200x200?text=Option+C",
-              "https://via.placeholder.com/200x200?text=Option+D"
+              "Coconut plantationswere destroyed duringWorld War II.",
+              "Europeanspreferredsoybeanoilasitwasproducedin Westerncountries.",
+              "Consumersstoppedusingcoconut oilbecausesoybean oilwasamoremodernequivalent.",
+              "Soybean oilhad never been usedas an edible oiluntil afterWorldWarII.",
+              "Soybeanoilreplacedtheuseofcoconutoilduetothe dif\u0002cultiesincurredinacquiringthelatter. 47 4 - ReadingComprehension CISIAŒTOLC-ISampleTest"
             ],
-            "correctAnswer": 0,
-            "explanation": "Electric field lines point radially outward from a positive charge."
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
+          },
+          {
+            "text": "Paragraph [3] states that:",
+            "options": [
+              "eatingcoconutoilleadstoheartproblemsinWestern countries",
+              "theuse ofcoconutoil infood wasbannedby theAmeri- canHeartAssociation",
+              "consumersbegantoeatlesscoconutoilasitwasthought tobeahealthrisk",
+              "theAmericanHeartAssociationadvisedconsumersnot toconsumecoconutoil",
+              "Western countries were unable toproducecoconutoil"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "In conclusion, theauthorindicatesthat:",
+            "options": [
+              "previousstudiesintothedangersofcoconut oilwere unfounded",
+              "researchnowshowsthatcoconutoilshouldbeused insteadofothervegetableoils",
+              "furtherstudieswillprovethedangersofeatingcoconut oil",
+              "researchinto the consumptionof coconutoil mustbe widened",
+              "coconut oil companiesarefundingfurtherresearch 48 Question Correct Answer 1 E 2 E 3 B 4 C 5 E 6 A 7 E 8 B 9 B 10 E 11 A 12 C 13 B 14 B 15 D 16 C 17 C 18 B 19 A 20 B 21 C 22 A 23 A 24 D 25 C 26 D 27 C 28 C 29 C 30 D 31 A 32 B 33 E 34 B 35 A 36 A 37 D 38 B 39 E 40 E 41 B 42 C 43 A 44 E 45 D 46 B 47 C 48 E 49 C 50 D Copyright 2021 CISIA -Consorziointeruniversitario Sistemi integratiperl'accesso All rights reserved"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Answer: D. Short explanation not yet provided."
           }
         ]
       }
@@ -191,151 +634,452 @@
     "duration": 90,
     "sections": [
       {
-        "name": "Reading Comprehension",
-        "questionCount": 10,
-        "questions": [
-          {
-            "text": "Read the following passage and answer the question:\n\nThe economic impact of climate change is a subject of ongoing debate. Some economists argue that the costs of mitigating climate change through carbon taxes and renewable energy investments will outweigh the benefits in the short term. Others contend that the long-term costs of inaction, including damage from extreme weather events and rising sea levels, will far exceed the costs of early intervention.\n\nWhat is the main point of disagreement among economists according to the passage?",
-            "options": [
-              "The timing of costs and benefits of climate action",
-              "Whether climate change is real",
-              "The effectiveness of carbon taxes",
-              "The role of renewable energy"
-            ],
-            "correctAnswer": 0,
-            "explanation": "The passage states that some economists focus on short-term costs outweighing benefits, while others focus on long-term costs of inaction exceeding intervention costs. This indicates that the main disagreement is about the timing of costs and benefits."
-          },
-          {
-            "text": "Read the following passage and answer the question:\n\nThe concept of 'nudging' in behavioral economics refers to positive reinforcement and indirect suggestions to influence behavior and decision making. Unlike mandates or bans, nudges are not enforced. For example, placing healthy foods at eye level in a cafeteria is a nudge, while banning junk food is not.\n\nAccording to the passage, what distinguishes a nudge from other forms of behavioral influence?",
-            "options": [
-              "Nudges are not enforced",
-              "Nudges only apply to food choices",
-              "Nudges always involve visual cues",
-              "Nudges are more effective than other methods"
-            ],
-            "correctAnswer": 0,
-            "explanation": "The passage explicitly states that 'Unlike mandates or bans, nudges are not enforced,' indicating this is the key distinguishing feature."
-          },
-          {
-            "text": "Read the following passage and answer the question:\n\nThe gig economy, characterized by short-term contracts and freelance work rather than permanent jobs, has grown significantly in the past decade. Proponents argue it offers flexibility and autonomy to workers. Critics contend it undermines job security and worker protections, as gig workers often lack benefits like health insurance and paid leave.\n\nWhat does the passage identify as a criticism of the gig economy?",
-            "options": [
-              "Lack of worker benefits and protections",
-              "Reduced worker productivity",
-              "Higher costs for consumers",
-              "Increased government regulation"
-            ],
-            "correctAnswer": 0,
-            "explanation": "The passage states that critics contend the gig economy 'undermines job security and worker protections, as gig workers often lack benefits like health insurance and paid leave.'"
-          },
-          {
-            "text": "Read the following passage and answer the question:\n\nInflation targeting is a monetary policy strategy used by central banks. Under this framework, a central bank estimates and makes public a projected inflation rate and then attempts to steer actual inflation toward that target using tools such as interest rate changes. Critics argue that focusing solely on inflation may lead central banks to neglect other important economic indicators.\n\nAccording to the passage, how do central banks attempt to control inflation?",
-            "options": [
-              "By adjusting interest rates",
-              "By printing more currency",
-              "By increasing government spending",
-              "By regulating consumer prices"
-            ],
-            "correctAnswer": 0,
-            "explanation": "The passage mentions that central banks attempt to steer actual inflation toward the target 'using tools such as interest rate changes.'"
-          },
-          {
-            "text": "Read the following passage and answer the question:\n\nMarket segmentation is the process of dividing a broad consumer market into sub-groups based on shared characteristics. Effective segmentation allows companies to target specific customer groups with tailored marketing strategies. Demographic segmentation divides the market based on variables such as age, gender, and income, while psychographic segmentation considers lifestyle, values, and attitudes.\n\nWhich of the following is an example of psychographic segmentation according to the passage?",
-            "options": [
-              "Dividing consumers based on their values",
-              "Grouping customers by their age",
-              "Categorizing markets by income levels",
-              "Separating consumers by gender"
-            ],
-            "correctAnswer": 0,
-            "explanation": "The passage states that 'psychographic segmentation considers lifestyle, values, and attitudes,' so dividing consumers based on their values is an example of psychographic segmentation."
-          }
-        ]
-      },
-      {
         "name": "Logic",
         "questionCount": 13,
         "questions": [
           {
-            "text": "In a survey of 200 students, 120 study economics, 100 study statistics, and 50 study both economics and statistics. How many students study neither economics nor statistics?",
-            "options": ["30", "50", "70", "150"],
-            "correctAnswer": 0,
-            "explanation": "Using the formula: Total = Economics + Statistics - Both + Neither\n200 = 120 + 100 - 50 + Neither\n200 = 170 + Neither\nNeither = 30"
+            "text": "Let A, B, and C be three sets such that ˛ [ ˚ = ˜ , where [ denotes the union of sets (and \\ the intersection). If C has 12 elements, whereas A and B have 7 elements each, then we can say that:",
+            "options": [
+              "˛ \\ ˚ is empty",
+              "˛ \\ ˚ has 2 elements",
+              "˛ \\ ˚ has 1 element",
+              "˛ \\ ˚ has 4 elements",
+              "˛ \\ ˚ has 3 elements 3 1 - Logic CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
           },
           {
-            "text": "If the statement 'All economists understand statistics' is false, which of the following statements must be true?",
+            "text": "In Mathland lived a mathematician, Tony, who studied natural numbers for years. The natural numbers in Mathland have the same properties as our natural numbers; in particular they can either be even or odd. Tony discovered a special kind of natural numbers, Tony's numbers; many contemporary mathematicians believe all Tony's numbers are even, but the great Hiyam Smarta does not agree. This means that Hiyam Smarta believes that:",
             "options": [
-              "Some economists do not understand statistics",
-              "No economists understand statistics",
-              "All economists understand statistics",
-              "Some non-economists understand statistics"
+              "there is at least one Tony's number which is not even",
+              "if a natural number is not a Tony's number, then it is odd",
+              "all Tony's numbers are odd",
+              "no odd number can be a Tony's number",
+              "no even number can be a Tony's number 4 1 - Logic CISIA Œ TOLC-E Sample Test"
             ],
             "correctAnswer": 0,
-            "explanation": "The negation of 'All A are B' is 'Some A are not B.' Therefore, if 'All economists understand statistics' is false, then 'Some economists do not understand statistics' must be true."
+            "explanation": "Answer: A. Short explanation not yet provided."
           },
           {
-            "text": "In a logical sequence, what comes next: 2, 6, 12, 20, 30, ?",
-            "options": ["42", "40", "36", "32"],
-            "correctAnswer": 0,
-            "explanation": "The differences between consecutive terms are: 4, 6, 8, 10, ...\nEach difference increases by 2. So the next difference is 12, and 30 + 12 = 42."
-          },
-          {
-            "text": "If it is not raining, then Sophia goes for a run. Sophia did not go for a run today. What can you conclude?",
+            "text": "We know that some students showed up for today's test in school, but also that not all students of the school were present. Therefore we can deduce that:",
             "options": [
-              "It was raining today",
-              "It was not raining today",
-              "Sophia was busy today",
-              "No valid conclusion can be drawn"
+              "it is possible that all students of the school have taken the test",
+              "no student of the school showed up for the test",
+              "we are not sure whether someone showed up for the test",
+              "the majority of the students of the school showed up for the test",
+              "not all students of the school failed to show up for the test, but at least one did 5 1 - Logic CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
+          },
+          {
+            "text": "Consider the following statements: ‹ All mathematicians are absentŒminded ‹ Lewis likes to swim ‹ All people who like to swim are absentŒminded If these statements are true, which of the following state- ments is also necessarily true?",
+            "options": [
+              "All absentŒminded people like to swim.",
+              "Lewis is a mathematician.",
+              "All absentŒminded people are mathematicians.",
+              "Lewis is absentŒminded.",
+              "All mathematicians like to swim. 6 1 - Logic CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Answer: D. Short explanation not yet provided."
+          },
+          {
+            "text": "In order to comply with the building codes of a certain city, a private house is not deemed habitable if it does not ful\u0002ll the required standards for energy and water saving. If this regulation is always applied it means that:",
+            "options": [
+              "all private houses which ful\u0002ll the standards for water saving also ful\u0002ll the standards for energy saving",
+              "if a private house ful\u0002lls the required standards for en- ergy and water savings, then certainly it will be consid- ered habitable",
+              "ful\u0002lling the required standards for water and energy sav- ing is a necessary condition to be considered habitable",
+              "ful\u0002lling the required standards for water and energy saving is a suf\u0002cient condition to be considered habitable",
+              "there are private houses which do not ful\u0002ll the required standards for water saving but are considered habitable 7 1 - Logic CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "The sum of the ages (taken as integer numbers) of ten people of age (i.e. 18 or older) is equal to 380 years. Therefore we can deduce that:",
+            "options": [
+              "all ten people must be younger than 40",
+              "if one person is younger than 20, then at least one of the others is older than 40",
+              "if one person is older than 40, then at least one of the others is younger than 20",
+              "at least one person is 39 years old or older",
+              "all ten people are at least 19 years old 8 1 - Logic CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
+          },
+          {
+            "text": "According to the traf\u0002c rules in Driveland, all car drivers must have a highŒvisibility jacket and a warning triangle on board. Unfortunately, not everyone follows this rule. Therefore we can certainly say that, in Driveland:",
+            "options": [
+              "there is at least one driver who does not have the jacket or the triangle on board",
+              "there is one driver who does not have the jacket on board",
+              "there is one driver who has both the triangle and the jacket on board",
+              "there is at least one driver who does not have neither the jacket nor the triangle on board",
+              "there is one driver who does not have the triangle on board 9 1 - Logic CISIA Œ TOLC-E Sample Test"
             ],
             "correctAnswer": 0,
-            "explanation": "This is an application of modus tollens. If P → Q and not Q, then not P. Here, P is 'It is not raining' and Q is 'Sophia goes for a run.' Since Sophia did not go for a run (not Q), we can conclude that it was raining (not P)."
+            "explanation": "Answer: A. Short explanation not yet provided."
           },
           {
-            "text": "Which of the following Venn diagrams correctly represents the relationship between 'Mammals', 'Dogs', and 'Pets'?",
-            "imageUrl": "https://via.placeholder.com/400x200?text=Venn+Diagram+Question",
+            "text": "Sebastian, a very thorough person, has a drawer for scarfs and another one for caps. In the scarfs drawer there are 5 red scarfs, 5 white ones and 5 green ones (all identical except for the color); in the caps drawer there are 5 red scarfs, 5 white ones and 5 green ones (again, all identical except for the color). He always wears a scarf and a cap of the same color. Tonight he has to go out, but suddenly there is a blackout and he is not able to distinguish colors anymore. What is the minimum number of scarfs and caps (added together) that he needs to take in order to be sure to wear a white scarf and a white cap?",
             "options": [
-              "https://via.placeholder.com/200x200?text=Option+A",
-              "https://via.placeholder.com/200x200?text=Option+B",
-              "https://via.placeholder.com/200x200?text=Option+C",
-              "https://via.placeholder.com/200x200?text=Option+D"
+              "20",
+              "21",
+              "16",
+              "12",
+              "22 10 1 - Logic CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
+          },
+          {
+            "text": "Under the current legislation, a formal warning must be sent to all Cities that are in budget de\u0002cit and increased staff costs by more than 2% this year. Since the City of Conundrum has not received a warning this year, we can be sure that:",
+            "options": [
+              "if its staff costs increased by 3%, then it is not in budget de\u0002cit",
+              "its staff costs increased by less than 2%",
+              "if it is not in budget de\u0002cit, then its staff costs increased by less than 2%",
+              "it is not in budget de\u0002cit and, at the same time, its staff costs increased by less than 2%",
+              "it is not in budget de\u0002cit 11 1 - Logic CISIA Œ TOLC-E Sample Test"
             ],
             "correctAnswer": 0,
-            "explanation": "All dogs are mammals, but not all mammals are dogs. Some dogs are pets, but not all dogs are pets. Some mammals other than dogs are also pets. The correct Venn diagram would show 'Dogs' as a subset of 'Mammals', with 'Pets' overlapping both 'Dogs' and the rest of 'Mammals'."
+            "explanation": "Answer: A. Short explanation not yet provided."
+          },
+          {
+            "text": "We want to balance a two Œarms scale by using some spheres with the same size but different weight depending on their color (white, red, or green). The \u0002rst attempt indicates that 2 white spheres together with 1 red sphere balance 2 red spheres and 1 green sphere exactly. Now we put 1 white sphere, 1 red and 1 green on the left plate of the scale, and 2 white spheres on the right one. Which of the following actions is the only one that allows us to balance the scale?",
+            "options": [
+              "Adding one white sphere on the right plate.",
+              "Adding one white sphere on the left plate.",
+              "Adding one red sphere on the left plate.",
+              "The scale is already balanced.",
+              "Adding one green sphere on the right plate. 12 1 - Logic CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Answer: A. Short explanation not yet provided."
+          },
+          {
+            "text": "A third of the members of the Administrative Board of a com- pany voted in favor of the restructuring plan; three quarters of the members of the same Board voted in favor of the budget approval. Therefore we can be sure that:",
+            "options": [
+              "some members of the Board voted against the restruc- turing plan and against the budget approval",
+              "those who voted in favor of the restructuring plan also voted in favor of the budget approval",
+              "no members of the Board voted against the restructuring plan and against the budget approval",
+              "those who voted in favor of the budget approval also voted in favor of the restructuring plan",
+              "at least one member of the Board voted in favor of the budget approval and in favor of the restructuring plan 13 1 - Logic CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
+          },
+          {
+            "text": "For each question in a test there are \u0002ve possible answers; only one answer is correct and all the others are wrong. Therefore:",
+            "options": [
+              "if an answer is the negation of another one, they are both wrong",
+              "if two answers are equivalent then one of them is correct",
+              "if two answers are equivalent then they are both wrong",
+              "if answer X entails answer Y then Y is correct",
+              "if an answer is the negation of another one, then the correct answer is one of the other three 14 1 - Logic CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "We know that the majority of those who have been contacted answered the survey; we also know that everyone who an- swered said they support the construction of the park. Which of the following statements is certainly false ?",
+            "options": [
+              "Everyone who has been contacted supports the construc- tion of the park.",
+              "Not everyone who has been contacted supports the con- struction of the park.",
+              "No Œone who has been contacted supports the construc- tion of the park.",
+              "Everyone who supports the construction of the park has been contacted.",
+              "Not everyone who supports the construction of the park answered the survey. 15 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test READING COMPREHENSION INSTRUCTIONS This section of the Test consists of one or more excerpts taken from works published in English. The text has not been modi\u0002ed in any way and re\u0003ects the writing styles typical of the time and context in which the authors lived. Each text is followed by \u0002ve questions with \u0002ve closed answers labelled with capital letters from A to E. For each question choose the answer you consider correct based on what is explicitly or implicitly stated; in other words base your answer only on what is written in the text, and not on what you might already know about the subject. 16 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test TEXT I The development of electronic publishing in small markets From: Ivona Despot and Tomislav Jakopec, The strategy for the development of electronic publishing in small markets , Libellarium: journal for the research of writing, books, and cultural heritage institutions, [S.l.], v. 6, n. 1-2, p. 81 Œ 90, mar. 2014. [1] Throughout history, publishing has adjusted to market require- ments, aiming for cheaper production and book prices in order to attract a larger number of readers. Today, in the majority of developed publishing markets, e-books have become part of the publishing business. However, every new technology can represent a factor of \"creative destruction\": transistors put an end to the cath- ode tube industry, and photocopying to the indigo paper industry. So, can the digitized book be considered a milestone in the history of publishing and what are the consequences? This study presents new trends and attempts to predict their potential impact on publishing, with a special focus on small linguistic distribution markets such as the Croatian book market. [2] While on the one hand, some experts predict the collapse of major publishers and booksellers due to their failure to focus on the future needs of readers in the digital environment, on the other, poor sales of e-publications and high prices of e-readers have led pub- lishers to question the future success of the e-publishing business. 17 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test Claims that e-publishing needs to be promoted through conferences in order to become lucrative support this skepticism. However, the most likely outcome is a balance between continuity and discon- tinuity. While it is true that people do not reject their old habits and activities whenever a new technology emerges, it is commonly believed that the advancement of technology and the emergence of a simpler and cheaper process of digitization, will probably lead to an increased market for content published in digital form. [3] Seen from the perspective of aspiring authors, expert Miha Kovac af\u0002rms that digital technology has turned book publishing into one of the most democratic media industries. Today, online bookstores offer titles published by the authors themselves, without of\u0002cial publishers. Apple has launched the iBooks Author programme which allows the author to shape his work graphically and forward it di- rectly to the bookstore. Technology has cheapened and simpli\u0002ed the book publishing process, and opened the door to new players. Enriched e-books with added video and audio content offer new dimensions to the reading experience. As for the traditional role of the publisher, the rapid development of self-publishing inevitably leads to content overproduction of varying quality. Consequently, a publisher is needed to help the readers select the best content avail- able. The book chain is changing, the publisher's role is adjusting to the new system, but it is still considered very necessary. [4] So what does the future hold? On the one hand, information and communication technology is developing at such a rapid rate that future products and services cannot be easily predicted. Lead- ing companies in this \u0002eld keep their future products and services secret until market placement in order to protect themselves from 18 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test competition. However, meeting the individual needs of each user is essential. With this in mind, the publishing industry has announced the emergence of the \"pay as you read\" business model allowing partial payment of content, unlike the previous practice of paying for the whole unit. This is particularly useful in the \u0002eld of academic and scienti\u0002c publications allowing, for example, each user to purchase a single article rather than an entire journal or one chapter instead of the whole book. Users can create the book they need by combining different articles or chapters. [5] There can be no doubt, therefore, that e-publishing is here to stay. However, when it comes to small markets, like Croatia, the two factors affecting the development of e-publishing are market size and language coverage. According to Digital Agenda for Europe indicators, Croatian society does not yet possess the necessary pre- requisites for successful e-publishing, but it is slowly moving towards that goal. Consequently, e-book publishing development strategies should be aimed towards ensuring a long-term cultural development in terms of digital infrastructure and internet use, whereas the con- crete implementation of this new development should be left to the market in question. 19 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test TEXT I QUESTIONS"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          }
+        ]
+      },
+      {
+        "name": "Reading Comprehension",
+        "questionCount": 10,
+        "questions": [
+          {
+            "text": "The primary purpose of the passage is to:",
+            "options": [
+              "present the results of statistical analyses and propose further studies",
+              "explain a recent development and predict its eventual consequences",
+              "identify the reasons for a negative trend and recommend measures to address it",
+              "outline several theories about major t echnological changes from the past",
+              "reconcile con\u0003icting research \u0002ndings 20 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
+          },
+          {
+            "text": "In paragraph [2] , the author states that:",
+            "options": [
+              "there is general agreement that e-publishing will s oon replace paper books",
+              "experts believe that e-publications will dominate the scienti\u0002c sphere",
+              "technological advances enabling cheaper digitalization will make e-publications more popular",
+              "many important publishers are in serious \u0002nancial dif\u0002- culty due to the rise in e-publications",
+              "conferences promoting e-books have been very success- ful 21 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "According to paragraph [3] , due to an increase in self- publishing:",
+            "options": [
+              "the publisher's role is changing",
+              "the quality of publishing has improved",
+              "publishers are no longer necessary",
+              "there is more need for digital experts",
+              "publishing has become more exclusive"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Answer: A. Short explanation not yet provided."
+          },
+          {
+            "text": "The author states in paragraph [4] that, today, publishers:",
+            "options": [
+              "require payment only if the reader likes the book",
+              "share new products and services with rival publishing houses",
+              "are particularly interested in developing the scienti\u0002c market",
+              "no longer protect works by copyright",
+              "must aim to satisfy the needs of individual users 22 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
+          },
+          {
+            "text": "In the \u0002nal paragraph ( [5] ), the author states that Croatia:",
+            "options": [
+              "has the necessary foundations on which to develop an e-publishing market",
+              "has a prosperous e-publishing market",
+              "will not be able to develop an e-publishing market d ue to its limited language coverage",
+              "needs to develop its broadband network and reduce the digital divide",
+              "will not be able to develop an e-publishing market d ue to its small market size 23 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test TEXT II Coconut oil From: Renato da Silva Lima and Jane Mara Block, Coconut oil: what do we really know about it so far? , Food Quality and Safety, Volume 3, Issue 2, May 2019, pages 61-72. [1] Coconut is one of the most important foods in various tropical and subtropical countries where the coconut tree is referred to as the \"tree of life\". The coconut is a very useful plant with a wide range of products being sourced from it. Coconut products are used to make everything from clothing to animal feed to beauty creams. Its kernel is harvested for its edible \u0003esh and delicious water, while its husk is used for its strong \u0002bres. Most important, however, are its oils, which are extracted, processed, and marketed for culinary, medicinal and cosmetic uses alike. The plant is cultivated in more than 90 countries with a total yield of 59 million tonnes in 2016. The production of coconut is extremely important in Asia, which is responsible for over 80 per cent of the world's coconut production. [2] In tropical countries, coconut oil has always been used as a cooking oil and in the late 19th century, the demand for edible oils also began to increase in Europe and in the US A. Once Europeans became aware of the possibilities offered by the fruit and recognised its versatility, they started establishing coconut plantations in the Caribbean, Southeast Asia, and the South Paci\u0002c and from the 1890s onwards, coconut oil became very popular in European countries and in the US A as an edible oil. This \u0002rst coconut oil boom lasted 24 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test until the onset of World War II, around 1940, when the supply of the product was cut off to Western countries leading to a coconut oil shortage. As a result of this scarcity, the price of the commodity surged, thus paving the way for the rival soybean oil industry to expand and develop. The shift to soybean oil was further aided by the use of more modern technology which was employed in the processing facilities of the product. [3] Once the war was over, countries with high coconut production tried to reintroduce the fruit into Western countries but with little suc- cess. Coconut oil was rejected at this point due to its high-saturated fat content. This rejection was associated with the \u0002ndings of epi- demiological studies conducted by the American physiologist, Ancel Keys, who formulated a hypothesis of the association between the consumption of high-saturated fat with a high blood cholesterol level and therefore the increased likelihood of cardiovascular disease. In 1956, in parallel to Keys' research, the American Heart Association started informing the population that consuming large quantities of high-saturated fat foods could increase the risk of cardiovascular disease. This, in turn, led to a decline in the popularity of coconut oil which was known to be high in saturated fat. [4] In recent years, however, coconut oil has once again attracted the attention of the population worldwide, especially in Europe and North America. Celebrities, digital in\u0003uencers, and even doctors have endorsed the use of this oil as a cooking medium in substi- tution of other vegetable oils and as a supplementary ingredient to be consumed with coffee and vitamin shakes. Blogs, internet videos, and articles are now promoting the consumption of coconut oil as a potential \"miracl e\" food. Some media vehicles and health 25 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test specialists claim that this oil is capable of promoting health bene\u0002ts, such as weight loss and the lowering of cholesterol levels as well as having anti-in\u0003ammatory effects and it is now af\u0002rmed that the consumption of coconut oil may actually help in the prevention of cardiovascular diseases. Clearly, these claims are now being used by coconut oil companies to market the product and boost sales. Nevertheless, governmental regulatory agencies in many countries remain sceptical about the bene\u0002ts obtained by the consumption of coconut oil due to its high-saturated fatty acid content. In gen- eral, studies in this \u0002eld present con\u0003icting results and there is a serious lack of long term human-based clinical trials. Therefore, as a saturated fat, coconut oil should be consumed with moderation and the health allegations should not be used to market the product considering that they have not been scienti\u0002cally proven so far. 26 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test TEXT II QUESTIONS"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Answer: D. Short explanation not yet provided."
+          },
+          {
+            "text": "The author of the passage is primarily concerned with:",
+            "options": [
+              "exploring research underlying the uses of coconuts",
+              "discussing the appeal of coconut oil and some concerns about its use",
+              "arguing for the adoption of coconut oil in promoting health bene\u0002ts",
+              "comparing the advantages of coconut oil over other edi- ble oils",
+              "clarifying the future of coconut oil companies"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
+          },
+          {
+            "text": "In paragraph [2] , the expression paving the way means:",
+            "options": [
+              "blocking the future",
+              "indicating the method",
+              "making it easier",
+              "contrasting the desire",
+              "giving an example 27 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "According to paragraph [2] , which of the following state- ments is true?",
+            "options": [
+              "Coconut plantations were destroyed during World War II.",
+              "Europeans preferred soybean oil as it was produced in Western countries.",
+              "Consumers stopped using coconut oil because soybean oil was a more modern equivalent.",
+              "Soybean oil had never been used as an edible oil until after World War II.",
+              "Soybean oil replaced the use of coconut oil due to the dif\u0002culties incurred in acquiring the latter. 28 2 - Reading Comprehension CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
+          },
+          {
+            "text": "Paragraph [3] states that:",
+            "options": [
+              "eating coconut oil leads to heart problems in Western countries",
+              "the use of coconut oil in food was banned by the Ameri- can Heart Association",
+              "consumers began to eat less coconut oil as it was thought to be a health risk",
+              "the American Heart Association advised consumers not to consume coconut oil",
+              "Western countries were unable to produce coconut oil"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "In conclusion, the author indicates that:",
+            "options": [
+              "previous studies into the dangers of coconut oil were unfounded",
+              "research now shows that coconut oil should be u sed instead of other vegetable oils",
+              "further studies will prove the dangers of eating coconut oil",
+              "research into the consumption of coconut oil must b e widened",
+              "coconut oil companies are funding further research 29 3 - Mathematics CISIA Œ TOLC-E Sample Test MATHEMATICS"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
           }
         ]
       },
       {
         "name": "Mathematics",
+        "questionCount": 13,
         "questions": [
           {
-            "text": "A company's profit increased by 15% in the first year and decreased by 10% in the second year. What was the overall percentage change in profit over the two years?",
-            "options": ["3.5% increase", "5% increase", "5% decrease", "25% increase"],
+            "text": "Karl has completed 75% of his sticker album. Julia gives him the 10 missing stickers. How many stickers does the album contain in total?",
+            "options": [
+              "40",
+              "70",
+              "100",
+              "25",
+              "85 30 3 - Mathematics CISIA Œ TOLC-E Sample Test"
+            ],
             "correctAnswer": 0,
-            "explanation": "If the initial profit is P, then after the first year it becomes P × 1.15. After the second year, it becomes P × 1.15 × 0.9 = P × 1.035. This represents a 3.5% increase overall."
+            "explanation": "Answer: A. Short explanation not yet provided."
           },
           {
-            "text": "If a bank offers a 4% annual interest rate compounded quarterly, what is the effective annual interest rate?",
-            "options": ["4.06%", "4%", "4.5%", "16%"],
-            "correctAnswer": 0,
-            "explanation": "The formula for effective annual rate is (1 + r/n)^n - 1, where r is the nominal rate and n is the number of compounding periods. With r = 0.04 and n = 4, we get (1 + 0.04/4)^4 - 1 = (1 + 0.01)^4 - 1 = 1.01^4 - 1 = 1.0406 - 1 = 0.0406 or 4.06%."
+            "text": "The equation ‚ \u0010 + \u0010 ‚ + \u000f \u0001 ( ‚ \u000f ) ‚ + \u000f = \u000e has solution(s):",
+            "options": [
+              "‚ = \u000e and ‚ = \u000f",
+              "‚ = \u000f and ‚ = \u000f",
+              "‚ , \u000e",
+              "‚ = \u000f",
+              "‚ = \u000e , ‚ = \u000f , and ‚ = \u000f"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Answer: D. Short explanation not yet provided."
           },
           {
-            "text": "The price of a product is reduced by 20%, and then the new price is reduced by a further 15%. What is the overall percentage reduction from the original price?",
-            "options": ["32%", "35%", "5%", "20%"],
-            "correctAnswer": 0,
-            "explanation": "If the original price is P, after the first reduction it becomes P × 0.8. After the second reduction, it becomes P × 0.8 × 0.85 = P × 0.68. This represents a 32% reduction from the original price."
+            "text": "If ı ( ‚ ) = j \u0013 \u0011 ‚ j , then ı ( \u0010 ) is equal to:",
+            "options": [
+              "ı ( \u000f )",
+              "ı \u0012 \u0012 \u0011 \u0013",
+              "ı ( \u0010 )",
+              "ı ( \u000e )",
+              "ı ( \u000f ) 31 3 - Mathematics CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
           },
           {
-            "text": "A loan of $10,000 is to be repaid in equal monthly installments over 5 years at an annual interest rate of 6%. Approximately how much is each monthly payment?",
-            "options": ["$193.33", "$166.67", "$200", "$150"],
-            "correctAnswer": 0,
-            "explanation": "Using the formula for monthly payment: P = r(PV) / (1 - (1+r)^-n), where PV is present value, r is monthly interest rate, and n is number of payments. With PV = 10000, r = 0.06/12 = 0.005, and n = 5×12 = 60, we get approximately $193.33."
+            "text": "Let % ( ‚ ) and & ( ‚ ) be two expressions de\u0002ned for every real number ‚ , such that % ( ‚ ) \u0015 \u000e if and only if ‚ \u0015 \u0010 , and & ( ‚ ) \u0015 \u000e if and only if ‚ \u0014 \u000f . Then the inequality % ( ‚ ) \u0001 & ( ‚ ) \u0015 \u000e is satis\u0002ed for:",
+            "options": [
+              "there is insuf\u0002cient data to answer",
+              "‚ \u0015 \u0010",
+              "\u000f \u0013 ‚ \u0013 \u0010",
+              "‚ \u0013 \u000f or ‚ \u0015 \u0010",
+              "‚ \u0014 \u000f 32 3 - Mathematics CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
           },
           {
-            "text": "The following graph shows the supply and demand curves for a product. What is the equilibrium price?",
-            "imageUrl": "https://via.placeholder.com/400x300?text=Supply+and+Demand+Graph",
-            "options": ["$5", "$10", "$15", "$20"],
+            "text": "If J = ‰ ‚ 3 ‰ 3 ‚ , then ‚ is equal to:",
+            "options": [
+              "‰ J + 3 ‰ + 3 J",
+              "‰ + 3 J ‰ J + 3",
+              "‰ J + 3 ‰ 3 J",
+              "‰ J 3 ‰ + 3 J",
+              "‰ J 3 ‰ 3 J 33 3 - Mathematics CISIA Œ TOLC-E Sample Test"
+            ],
             "correctAnswer": 0,
-            "explanation": "The equilibrium price is found at the intersection of the supply and demand curves, which in this graph is at $5."
+            "explanation": "Answer: A. Short explanation not yet provided."
+          },
+          {
+            "text": "Let J = ‚ \u0010 + \u0012 ‚ + 4 be the equation of a parabola. If we know that this parabola crosses the ‚ axis only at one point, what is the value of 4 ?",
+            "options": [
+              "3",
+              "1",
+              "\u000f",
+              "\u000e",
+              "4 34 3 - Mathematics CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 4,
+            "explanation": "Answer: E. Short explanation not yet provided."
+          },
+          {
+            "text": "Consider a square & and a circle inscribed in & . Then the ratio between the area of the circle and the area of the square is:",
+            "options": [
+              "greater than \u0012 \u0013 but less than \u0013 \u0014",
+              "all the other answers are incorrect",
+              "greater than \u0011 \u0012 but less than \u0012 \u0013",
+              "less than \u0011 \u0012",
+              "greater than \u0013 \u0014 but less than \u000f"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "If ‰ and 3 are two numbers such that \u000e \u0004 \u0011 \u0013 ‰ = \u000e \u0004 \u0010 3 , what is the value of 3 expressed in terms of ‰ ?",
+            "options": [
+              "\u000f \u0015 \u0004 \u0013 ‰",
+              "\u000f \u0015 \u0013 ‰",
+              "\u000f \u0004 \u0015 \u0013 ‰",
+              "\u000e \u0004 \u000e \u000f \u0015 \u0013 ‰",
+              "\u000e \u0004 \u000f \u0015 \u0013 ‰ 35 3 - Mathematics CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "Let ‚ and J be two positive numbers such that ‚ J \u0015 \u0012 \u000f ‚ \u0013 \u000f J . Then we can certainly say that:",
+            "options": [
+              "‚ \u0015 J",
+              "J \u0015 \u000f",
+              "‚ and J are both less than 1",
+              "‚ \u0015 \u000f",
+              "‚ and J are both greater than 1 36 3 - Mathematics CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Answer: D. Short explanation not yet provided."
+          },
+          {
+            "text": "The equation of the straight line perpendicular to \u0010 ‚ J + \u0011 = \u000e that forms a triangle of area 1 with the Cartesian axes in the \u0002rst quarter is:",
+            "options": [
+              "J = ‚ \u0010 \u0010",
+              "J = \u0010 + ‚ \u0010",
+              "J = \u0010 ‚ \u0010",
+              "J = \u0010 ‚ \u000f",
+              "J = \u0010 ‚ \u000f 37 3 - Mathematics CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "The parabola whose equation is J = ‰ ‚ \u0010 + 3 ‚ + 4 (shown in the \u0002gure) crosses the J axis at ( \u000e \u0004 \u0010 ) . Which of the following equalities could be true?",
+            "options": [
+              "‰ + 3 + 4 = \u0011",
+              "‰ + 3 + 4 = \u000f",
+              "‰ + 3 + 4 = \u0011",
+              "‰ + 3 + 4 = \u0010",
+              "‰ + 3 + 4 = \u000e 38 3 - Mathematics CISIA Œ TOLC-E Sample Test"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Answer: C. Short explanation not yet provided."
+          },
+          {
+            "text": "The expression \u0011 ‚ + J + \u0011 ‚ J is equal to:",
+            "options": [
+              "\u0011 ‚ \u0010 J \u0010",
+              "\u0011 ‚ + J \u000f + \u0011 \u0010 J \u0001",
+              "\u0011 ‚ \u0011 J \u0011 J",
+              "\u0011 ‚ + J ‚ J",
+              "\u0011 \u0010 ‚"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Answer: B. Short explanation not yet provided."
+          },
+          {
+            "text": "The shares of three companies , \u0017 , ˘ had the same unit price two years ago. After one year, the price of decreased by 10%, the price of \u0017 by 20%, and the p ri ce of ˘ by 30%. The following year, decreased by 30%, \u0017 by 20%, and ˘ by 10%. Which of three shares has the highest price today?",
+            "options": [
+              "All 3 shares have the same price.",
+              "˘",
+              "and ˘ have the same price, which is greater than \u0017 .",
+              "\u0017",
+              "39 Question Correct Answer 1 B 2 A 3 E 4 D 5 C 6 B 7 A 8 E 9 A 10 A 11 E 12 C 13 C 14 B 15 C 16 A 17 E 18 D 19 B 20 C 21 E 22 C 23 D 24 A 25 D 26 B 27 C 28 A 29 E 30 C 31 C 32 D 33 C 34 C 35 B 36 D Copyright © 2021 CISIA - Consorzio interuniversitario Sistemi integrati per l'accesso All rights reserved"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Answer: D. Short explanation not yet provided."
           }
         ]
       }

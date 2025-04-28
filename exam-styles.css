@@ -130,6 +130,9 @@
     display: flex;
     flex-direction: column;
     height: 100vh;
+    background-color: var(--background-color);
+    max-width: 100%;
+    overflow-x: hidden; /* Prevent horizontal overflow */
 }
 
 .exam-header {
@@ -175,35 +178,48 @@
 
 .exam-content {
     flex: 1;
-    padding: 2rem;
+    padding: 1.5rem 1rem; /* Reduced padding */
     overflow-y: auto;
+    overflow-x: hidden; /* Prevent horizontal overflow */
     display: flex;
     justify-content: center;
+    width: 100%;
+    max-width: 100vw; /* Ensure it doesn't exceed viewport width */
 }
 
 .question-container {
     background-color: white;
     border-radius: var(--border-radius);
     box-shadow: var(--box-shadow);
-    padding: 2rem;
+    padding: 1.5rem; /* Reduced padding */
     width: 100%;
     max-width: 900px;
+    overflow: hidden; /* Prevent content from overflowing */
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto; /* Center the container */
+    box-sizing: border-box; /* Include padding in width calculation */
 }
 
 .question-text {
-    font-size: 1.25rem;
-    margin-bottom: 2rem;
-    line-height: 1.6;
+    font-size: 1.15rem; /* Slightly smaller font */
+    margin-bottom: 1.5rem; /* Reduced margin */
+    line-height: 1.5;
+    max-width: 100%;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
 }
 
 .question-image-container {
     display: flex;
     justify-content: center;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem; /* Reduced margin */
 }
 
 .question-image-container img {
-    max-width: 70%;
+    max-width: 100%;
     max-height: 400px;
     object-fit: contain;
     border-radius: var(--border-radius);
@@ -212,18 +228,27 @@
 .options-container {
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 0.3rem; /* Further reduced gap between options */
+    width: 100%;
+    margin-bottom: 1rem; /* Reduced bottom margin */
 }
 
 .option {
     background-color: var(--light-color);
-    border: 2px solid var(--light-color);
+    border: 1px solid var(--light-color); /* Thinner border */
     border-radius: var(--border-radius);
-    padding: 1rem;
+    padding: 0.5rem 0.7rem; /* Further reduced padding */
     cursor: pointer;
     transition: var(--transition);
     display: flex;
-    align-items: center;
+    align-items: flex-start; /* Align items at the top for better layout with long text */
+    width: 100%;
+    overflow-wrap: break-word; /* Ensure long words break properly */
+    word-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
+    min-height: 40px; /* Further reduced minimum height */
+    margin-bottom: 0.4rem; /* Reduced space between options */
 }
 
 .option:hover {
@@ -238,18 +263,21 @@
 .option-prefix {
     font-weight: 600;
     color: var(--primary-color);
-    margin-right: 1rem;
-    min-width: 24px;
+    margin-right: 0.5rem; /* Reduced margin */
+    min-width: 20px; /* Reduced width */
+    flex-shrink: 0; /* Prevent shrinking */
 }
 
 .option-image {
     display: flex;
     justify-content: center;
     width: 100%;
+    max-width: 100%; /* Ensure images don't overflow */
+    overflow: hidden;
 }
 
 .option-image img {
-    max-width: 50%;
+    max-width: 80%;
     max-height: 200px;
     object-fit: contain;
     border-radius: var(--border-radius);
@@ -607,19 +635,22 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
-    margin-bottom: 1rem;
-    max-width: 100%;
+    margin-bottom: 1.5rem;
+    width: 100%;
     overflow: hidden;
 }
 
 .question-review-option {
-    padding: 0.75rem;
+    padding: 0.6rem 0.8rem; /* Reduced padding */
     border-radius: var(--border-radius);
     display: flex;
-    align-items: center;
+    align-items: flex-start; /* Align items at the top for better layout with long text */
     word-break: break-word;
     position: relative;
-    min-height: 50px;
+    min-height: 48px; /* Reduced minimum height */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
 }
 
 .question-review-option.selected {
@@ -640,7 +671,11 @@
 
 .question-review-option .option-text {
     flex: 1;
-    padding-right: 25px; /* Space for the icon */
+    overflow-wrap: break-word; /* Ensure long words break properly */
+    word-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
+    line-height: 1.5;
 }
 
 .question-review-explanation {
@@ -697,6 +732,25 @@
     .exam-navigation {
         flex-direction: column;
         gap: 1rem;
+    }
+    
+    .exam-content {
+        padding: 1rem;
+    }
+    
+    .question-container {
+        padding: 1.5rem 1rem;
+        margin: 0;
+        border-radius: 0;
+    }
+    
+    .option {
+        padding: 0.5rem 0.6rem; /* Further reduced padding for mobile */
+        min-height: 40px; /* Smaller minimum height for mobile */
+    }
+    
+    .option-image img {
+        max-width: 100%;
     }
     
     .navigation-buttons {
