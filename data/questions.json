@@ -1,0 +1,344 @@
+{
+  "TOLC-I": {
+    "totalQuestions": 50,
+    "duration": 110,
+    "sections": [
+      {
+        "name": "Mathematics",
+        "questionCount": 20,
+        "questions": [
+          {
+            "text": "Solve the equation: 2x + 5 = 15",
+            "options": ["x = 5", "x = 10", "x = 7.5", "x = 5.5"],
+            "correctAnswer": 0,
+            "explanation": "2x + 5 = 15\n2x = 15 - 5\n2x = 10\nx = 5"
+          },
+          {
+            "text": "Calculate the derivative of f(x) = x² + 3x - 2",
+            "options": ["f'(x) = 2x + 3", "f'(x) = x + 3", "f'(x) = 2x - 3", "f'(x) = 2x"],
+            "correctAnswer": 0,
+            "explanation": "The derivative of f(x) = x² + 3x - 2 is f'(x) = 2x + 3, since the derivative of x² is 2x, the derivative of 3x is 3, and the derivative of -2 is 0."
+          },
+          {
+            "text": "If a circle has a radius of 4 units, what is its area?",
+            "options": ["16π square units", "8π square units", "4π square units", "12π square units"],
+            "correctAnswer": 0,
+            "explanation": "The area of a circle is given by the formula A = πr², where r is the radius. With r = 4, we get A = π(4)² = 16π square units."
+          },
+          {
+            "text": "Simplify the expression: (3x² - 2x + 5) - (x² + 3x - 1)",
+            "options": ["2x² - 5x + 6", "2x² - 5x - 6", "4x² - 5x + 6", "2x² + x + 6"],
+            "correctAnswer": 0,
+            "explanation": "(3x² - 2x + 5) - (x² + 3x - 1) = 3x² - 2x + 5 - x² - 3x + 1 = 2x² - 5x + 6"
+          },
+          {
+            "text": "Find the solution set of the inequality: 2x - 3 > 5",
+            "options": ["x > 4", "x < 4", "x > 1", "x < 1"],
+            "correctAnswer": 0,
+            "explanation": "2x - 3 > 5\n2x > 5 + 3\n2x > 8\nx > 4"
+          }
+        ]
+      },
+      {
+        "name": "Logic",
+        "questionCount": 13,
+        "questions": [
+          {
+            "text": "If all A are B, and all B are C, which of the following statements must be true?",
+            "options": ["All A are C", "All C are A", "No A are C", "Some C are not A"],
+            "correctAnswer": 0,
+            "explanation": "If all A are B, and all B are C, then by the transitive property of logical implication, all A must be C."
+          },
+          {
+            "text": "In a group of 25 students, 15 study mathematics and 10 study physics. If 5 students study both subjects, how many students study neither mathematics nor physics?",
+            "options": ["5", "10", "15", "20"],
+            "correctAnswer": 0,
+            "explanation": "Using the formula: Total = Math + Physics - Both + Neither\n25 = 15 + 10 - 5 + Neither\n25 = 20 + Neither\nNeither = 5"
+          },
+          {
+            "text": "If it is not true that 'if it rains, then the ground is wet', which of the following must be true?",
+            "options": ["It rains and the ground is not wet", "It does not rain and the ground is wet", "It rains and the ground is wet", "It does not rain and the ground is not wet"],
+            "correctAnswer": 0,
+            "explanation": "The negation of 'if P, then Q' is 'P and not Q'. So the negation of 'if it rains, then the ground is wet' is 'it rains and the ground is not wet'."
+          },
+          {
+            "text": "In a sequence, each term after the first two is the sum of the two preceding terms. If the first two terms are 1 and 3, what is the 5th term?",
+            "options": ["11", "8", "13", "21"],
+            "correctAnswer": 0,
+            "explanation": "The sequence starts: 1, 3, 4, 7, 11, ...\nWhere 4 = 1+3, 7 = 3+4, and 11 = 4+7. So the 5th term is 11."
+          },
+          {
+            "text": "If P implies Q, and Q implies R, but R does not imply P, which of the following diagrams best represents the relationship?",
+            "imageUrl": "https://via.placeholder.com/400x200?text=Logic+Diagram+Question",
+            "options": [
+              "https://via.placeholder.com/200x200?text=Option+A",
+              "https://via.placeholder.com/200x200?text=Option+B",
+              "https://via.placeholder.com/200x200?text=Option+C",
+              "https://via.placeholder.com/200x200?text=Option+D"
+            ],
+            "correctAnswer": 0,
+            "explanation": "If P implies Q and Q implies R, then P is a subset of Q, and Q is a subset of R. However, since R does not imply P, R is not a subset of P. This is best represented by nested circles where P is inside Q, and Q is inside R."
+          }
+        ]
+      },
+      {
+        "name": "Reading Comprehension",
+        "questionCount": 10,
+        "questions": [
+          {
+            "text": "Read the following passage and answer the question:\n\nThe advancement of technology in engineering fields has revolutionized how we approach complex problems. Modern computational methods allow engineers to simulate and test designs before physical prototypes are built, saving time and resources. However, some argue that over-reliance on computer simulations may lead to overlooking practical considerations that only become apparent during physical testing.\n\nWhat is the main concern about using computer simulations according to the passage?",
+            "options": [
+              "They might miss practical issues only found in physical testing",
+              "They are too expensive to implement",
+              "They take more time than traditional methods",
+              "Engineers lack the skills to use them effectively"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The passage states that 'some argue that over-reliance on computer simulations may lead to overlooking practical considerations that only become apparent during physical testing,' indicating that missing practical issues is the main concern."
+          },
+          {
+            "text": "Read the following passage and answer the question:\n\nThe field of materials science continues to develop new composites with properties that were once thought impossible. These advanced materials combine the beneficial properties of multiple substances while minimizing their individual weaknesses. For instance, carbon fiber reinforced polymers offer the strength of metals at a fraction of the weight, making them ideal for aerospace applications.\n\nAccording to the passage, what is a key advantage of carbon fiber reinforced polymers?",
+            "options": [
+              "High strength-to-weight ratio",
+              "Low production cost",
+              "Electrical conductivity",
+              "Heat resistance"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The passage mentions that carbon fiber reinforced polymers 'offer the strength of metals at a fraction of the weight,' which describes a high strength-to-weight ratio that makes them 'ideal for aerospace applications.'"
+          },
+          {
+            "text": "Read the following passage and answer the question:\n\nQuantum computing represents a paradigm shift in computational capabilities. Unlike classical computers that use bits (0 or 1), quantum computers use quantum bits or 'qubits' that can exist in multiple states simultaneously due to superposition. This property potentially allows quantum computers to solve certain problems exponentially faster than classical computers, particularly in areas such as cryptography, material science, and complex system modeling.\n\nWhat fundamental property gives quantum computers their advantage according to the passage?",
+            "options": [
+              "Superposition",
+              "Miniaturization",
+              "Higher processing speeds",
+              "Lower energy consumption"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The passage explains that quantum computers use qubits 'that can exist in multiple states simultaneously due to superposition' and that 'this property potentially allows quantum computers to solve certain problems exponentially faster.'"
+          },
+          {
+            "text": "Read the following passage and answer the question:\n\nThe concept of sustainable engineering has gained prominence as societies face increasing environmental challenges. This approach integrates environmental considerations into every stage of the engineering process, from material selection to end-of-life disposal. By adopting a lifecycle perspective, engineers can minimize resource consumption, reduce waste generation, and design products that are more easily recycled or repurposed.\n\nWhat key approach does sustainable engineering take according to the passage?",
+            "options": [
+              "Lifecycle perspective",
+              "Cost reduction",
+              "Maximizing production efficiency",
+              "Regulatory compliance"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The passage states that 'By adopting a lifecycle perspective, engineers can minimize resource consumption, reduce waste generation, and design products that are more easily recycled or repurposed,' indicating that the lifecycle perspective is the key approach mentioned."
+          },
+          {
+            "text": "Read the following passage and answer the question:\n\nBiomimicry is an approach to innovation that seeks sustainable solutions to human challenges by emulating nature's patterns and strategies. For example, the design of the Japanese bullet train was inspired by the kingfisher's beak to reduce noise and improve aerodynamics. Similarly, Velcro was invented after its creator observed how burrs attached to his dog's fur. These innovations demonstrate how studying biological mechanisms can lead to significant technological advancements.\n\nWhat is biomimicry according to the passage?",
+            "options": [
+              "Innovation inspired by nature's patterns",
+              "Creating artificial biological systems",
+              "Genetic modification of organisms",
+              "Using biological materials in construction"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The passage defines biomimicry in its first sentence as 'an approach to innovation that seeks sustainable solutions to human challenges by emulating nature's patterns and strategies.'"
+          }
+        ]
+      },
+      {
+        "name": "Physics",
+        "questionCount": 10,
+        "questions": [
+          {
+            "text": "A car accelerates uniformly from rest to 20 m/s in 10 seconds. What is its acceleration?",
+            "options": ["2 m/s²", "0.5 m/s²", "10 m/s²", "20 m/s²"],
+            "correctAnswer": 0,
+            "explanation": "Using the formula v = u + at, where v is final velocity, u is initial velocity, a is acceleration, and t is time:\n20 = 0 + a(10)\na = 20/10 = 2 m/s²"
+          },
+          {
+            "text": "What is the SI unit of electric current?",
+            "options": ["Ampere", "Volt", "Ohm", "Watt"],
+            "correctAnswer": 0,
+            "explanation": "The SI unit of electric current is the ampere (A)."
+          },
+          {
+            "text": "Which of the following is a vector quantity?",
+            "options": ["Velocity", "Temperature", "Mass", "Energy"],
+            "correctAnswer": 0,
+            "explanation": "Velocity is a vector quantity because it has both magnitude and direction. Temperature, mass, and energy are scalar quantities."
+          },
+          {
+            "text": "A 2 kg object moving at 5 m/s collides with a stationary 3 kg object. If the collision is perfectly inelastic, what is the final velocity of the combined objects?",
+            "options": ["2 m/s", "5 m/s", "3.5 m/s", "1 m/s"],
+            "correctAnswer": 0,
+            "explanation": "In a perfectly inelastic collision, momentum is conserved. Using the formula m₁v₁ + m₂v₂ = (m₁ + m₂)v':\n(2 kg)(5 m/s) + (3 kg)(0 m/s) = (2 kg + 3 kg)v'\n10 kg·m/s = 5 kg·v'\nv' = 2 m/s"
+          },
+          {
+            "text": "Which of the following diagrams correctly represents the electric field lines around a positive charge?",
+            "imageUrl": "https://via.placeholder.com/400x200?text=Electric+Field+Question",
+            "options": [
+              "https://via.placeholder.com/200x200?text=Option+A",
+              "https://via.placeholder.com/200x200?text=Option+B",
+              "https://via.placeholder.com/200x200?text=Option+C",
+              "https://via.placeholder.com/200x200?text=Option+D"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Electric field lines point radially outward from a positive charge."
+          }
+        ]
+      }
+    ]
+  },
+  "TOLC-E": {
+    "totalQuestions": 36,
+    "duration": 90,
+    "sections": [
+      {
+        "name": "Reading Comprehension",
+        "questionCount": 10,
+        "questions": [
+          {
+            "text": "Read the following passage and answer the question:\n\nThe economic impact of climate change is a subject of ongoing debate. Some economists argue that the costs of mitigating climate change through carbon taxes and renewable energy investments will outweigh the benefits in the short term. Others contend that the long-term costs of inaction, including damage from extreme weather events and rising sea levels, will far exceed the costs of early intervention.\n\nWhat is the main point of disagreement among economists according to the passage?",
+            "options": [
+              "The timing of costs and benefits of climate action",
+              "Whether climate change is real",
+              "The effectiveness of carbon taxes",
+              "The role of renewable energy"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The passage states that some economists focus on short-term costs outweighing benefits, while others focus on long-term costs of inaction exceeding intervention costs. This indicates that the main disagreement is about the timing of costs and benefits."
+          },
+          {
+            "text": "Read the following passage and answer the question:\n\nThe concept of 'nudging' in behavioral economics refers to positive reinforcement and indirect suggestions to influence behavior and decision making. Unlike mandates or bans, nudges are not enforced. For example, placing healthy foods at eye level in a cafeteria is a nudge, while banning junk food is not.\n\nAccording to the passage, what distinguishes a nudge from other forms of behavioral influence?",
+            "options": [
+              "Nudges are not enforced",
+              "Nudges only apply to food choices",
+              "Nudges always involve visual cues",
+              "Nudges are more effective than other methods"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The passage explicitly states that 'Unlike mandates or bans, nudges are not enforced,' indicating this is the key distinguishing feature."
+          },
+          {
+            "text": "Read the following passage and answer the question:\n\nThe gig economy, characterized by short-term contracts and freelance work rather than permanent jobs, has grown significantly in the past decade. Proponents argue it offers flexibility and autonomy to workers. Critics contend it undermines job security and worker protections, as gig workers often lack benefits like health insurance and paid leave.\n\nWhat does the passage identify as a criticism of the gig economy?",
+            "options": [
+              "Lack of worker benefits and protections",
+              "Reduced worker productivity",
+              "Higher costs for consumers",
+              "Increased government regulation"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The passage states that critics contend the gig economy 'undermines job security and worker protections, as gig workers often lack benefits like health insurance and paid leave.'"
+          },
+          {
+            "text": "Read the following passage and answer the question:\n\nInflation targeting is a monetary policy strategy used by central banks. Under this framework, a central bank estimates and makes public a projected inflation rate and then attempts to steer actual inflation toward that target using tools such as interest rate changes. Critics argue that focusing solely on inflation may lead central banks to neglect other important economic indicators.\n\nAccording to the passage, how do central banks attempt to control inflation?",
+            "options": [
+              "By adjusting interest rates",
+              "By printing more currency",
+              "By increasing government spending",
+              "By regulating consumer prices"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The passage mentions that central banks attempt to steer actual inflation toward the target 'using tools such as interest rate changes.'"
+          },
+          {
+            "text": "Read the following passage and answer the question:\n\nMarket segmentation is the process of dividing a broad consumer market into sub-groups based on shared characteristics. Effective segmentation allows companies to target specific customer groups with tailored marketing strategies. Demographic segmentation divides the market based on variables such as age, gender, and income, while psychographic segmentation considers lifestyle, values, and attitudes.\n\nWhich of the following is an example of psychographic segmentation according to the passage?",
+            "options": [
+              "Dividing consumers based on their values",
+              "Grouping customers by their age",
+              "Categorizing markets by income levels",
+              "Separating consumers by gender"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The passage states that 'psychographic segmentation considers lifestyle, values, and attitudes,' so dividing consumers based on their values is an example of psychographic segmentation."
+          }
+        ]
+      },
+      {
+        "name": "Logic",
+        "questionCount": 13,
+        "questions": [
+          {
+            "text": "In a survey of 200 students, 120 study economics, 100 study statistics, and 50 study both economics and statistics. How many students study neither economics nor statistics?",
+            "options": ["30", "50", "70", "150"],
+            "correctAnswer": 0,
+            "explanation": "Using the formula: Total = Economics + Statistics - Both + Neither\n200 = 120 + 100 - 50 + Neither\n200 = 170 + Neither\nNeither = 30"
+          },
+          {
+            "text": "If the statement 'All economists understand statistics' is false, which of the following statements must be true?",
+            "options": [
+              "Some economists do not understand statistics",
+              "No economists understand statistics",
+              "All economists understand statistics",
+              "Some non-economists understand statistics"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The negation of 'All A are B' is 'Some A are not B.' Therefore, if 'All economists understand statistics' is false, then 'Some economists do not understand statistics' must be true."
+          },
+          {
+            "text": "In a logical sequence, what comes next: 2, 6, 12, 20, 30, ?",
+            "options": ["42", "40", "36", "32"],
+            "correctAnswer": 0,
+            "explanation": "The differences between consecutive terms are: 4, 6, 8, 10, ...\nEach difference increases by 2. So the next difference is 12, and 30 + 12 = 42."
+          },
+          {
+            "text": "If it is not raining, then Sophia goes for a run. Sophia did not go for a run today. What can you conclude?",
+            "options": [
+              "It was raining today",
+              "It was not raining today",
+              "Sophia was busy today",
+              "No valid conclusion can be drawn"
+            ],
+            "correctAnswer": 0,
+            "explanation": "This is an application of modus tollens. If P → Q and not Q, then not P. Here, P is 'It is not raining' and Q is 'Sophia goes for a run.' Since Sophia did not go for a run (not Q), we can conclude that it was raining (not P)."
+          },
+          {
+            "text": "Which of the following Venn diagrams correctly represents the relationship between 'Mammals', 'Dogs', and 'Pets'?",
+            "imageUrl": "https://via.placeholder.com/400x200?text=Venn+Diagram+Question",
+            "options": [
+              "https://via.placeholder.com/200x200?text=Option+A",
+              "https://via.placeholder.com/200x200?text=Option+B",
+              "https://via.placeholder.com/200x200?text=Option+C",
+              "https://via.placeholder.com/200x200?text=Option+D"
+            ],
+            "correctAnswer": 0,
+            "explanation": "All dogs are mammals, but not all mammals are dogs. Some dogs are pets, but not all dogs are pets. Some mammals other than dogs are also pets. The correct Venn diagram would show 'Dogs' as a subset of 'Mammals', with 'Pets' overlapping both 'Dogs' and the rest of 'Mammals'."
+          }
+        ]
+      },
+      {
+        "name": "Mathematics",
+        "questions": [
+          {
+            "text": "A company's profit increased by 15% in the first year and decreased by 10% in the second year. What was the overall percentage change in profit over the two years?",
+            "options": ["3.5% increase", "5% increase", "5% decrease", "25% increase"],
+            "correctAnswer": 0,
+            "explanation": "If the initial profit is P, then after the first year it becomes P × 1.15. After the second year, it becomes P × 1.15 × 0.9 = P × 1.035. This represents a 3.5% increase overall."
+          },
+          {
+            "text": "If a bank offers a 4% annual interest rate compounded quarterly, what is the effective annual interest rate?",
+            "options": ["4.06%", "4%", "4.5%", "16%"],
+            "correctAnswer": 0,
+            "explanation": "The formula for effective annual rate is (1 + r/n)^n - 1, where r is the nominal rate and n is the number of compounding periods. With r = 0.04 and n = 4, we get (1 + 0.04/4)^4 - 1 = (1 + 0.01)^4 - 1 = 1.01^4 - 1 = 1.0406 - 1 = 0.0406 or 4.06%."
+          },
+          {
+            "text": "The price of a product is reduced by 20%, and then the new price is reduced by a further 15%. What is the overall percentage reduction from the original price?",
+            "options": ["32%", "35%", "5%", "20%"],
+            "correctAnswer": 0,
+            "explanation": "If the original price is P, after the first reduction it becomes P × 0.8. After the second reduction, it becomes P × 0.8 × 0.85 = P × 0.68. This represents a 32% reduction from the original price."
+          },
+          {
+            "text": "A loan of $10,000 is to be repaid in equal monthly installments over 5 years at an annual interest rate of 6%. Approximately how much is each monthly payment?",
+            "options": ["$193.33", "$166.67", "$200", "$150"],
+            "correctAnswer": 0,
+            "explanation": "Using the formula for monthly payment: P = r(PV) / (1 - (1+r)^-n), where PV is present value, r is monthly interest rate, and n is number of payments. With PV = 10000, r = 0.06/12 = 0.005, and n = 5×12 = 60, we get approximately $193.33."
+          },
+          {
+            "text": "The following graph shows the supply and demand curves for a product. What is the equilibrium price?",
+            "imageUrl": "https://via.placeholder.com/400x300?text=Supply+and+Demand+Graph",
+            "options": ["$5", "$10", "$15", "$20"],
+            "correctAnswer": 0,
+            "explanation": "The equilibrium price is found at the intersection of the supply and demand curves, which in this graph is at $5."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOLC Mock Test - Exam Results</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="exam-styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="results-page">
+    <header>
+        <div class="container">
+            <div class="logo">TOLC Mock Test</div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#" class="active">Practice Test</a></li>
+                    <li><a href="#" class="premium-link">Premium Access</a></li>
+                </ul>
+            </nav>
+            <div class="mobile-menu-btn">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </header>
+
+    <section class="results-section">
+        <div class="container">
+            <h1>Your TOLC Mock Test Results</h1>
+            
+            <div class="results-summary">
+                <div class="results-card">
+                    <h2 id="exam-type-result">TOLC Exam</h2>
+                    <div class="score-container">
+                        <div class="score-circle">
+                            <span id="total-score">0</span>
+                            <span class="score-label">points</span>
+                        </div>
+                    </div>
+                    <div class="score-details">
+                        <p>Total Questions: <span id="total-questions-result">0</span></p>
+                        <p>Correct Answers: <span id="correct-answers">0</span></p>
+                        <p>Wrong Answers: <span id="wrong-answers">0</span></p>
+                        <p>Blank Answers: <span id="blank-answers">0</span></p>
+                        <p>Time Taken: <span id="time-taken">00:00:00</span></p>
+                    </div>
+                </div>
+                
+                <div class="section-scores" id="section-scores">
+                    <!-- Section scores will be dynamically added here -->
+                </div>
+            </div>
+            
+            <div class="results-actions">
+                <button id="download-pdf" class="btn btn-secondary"><i class="fas fa-download"></i> Download Results as PDF</button>
+                <a href="exam.html" class="btn btn-primary"><i class="fas fa-redo"></i> Take Another Test</a>
+            </div>
+            
+            <div class="detailed-results">
+                <h2>Detailed Question Analysis</h2>
+                <div id="questions-review">
+                    <!-- Detailed question results will be dynamically added here -->
+                </div>
+            </div>
+            
+            <div class="results-cta">
+                <div class="infobox-content">
+                    <h2>Want to Improve Your Score?</h2>
+                    <p>Get access to more practice tests and detailed analytics with our Premium Access.</p>
+                    <a href="/premium" class="btn btn-primary">Get Premium Access</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="#">Contact</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                    </ul>
+                </div>
+                <div class="footer-social">
+                    <h3>Follow Us</h3>
+                    <div class="social-icons">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 TOLC Mock Test. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="results.js"></script>
+</body>
+</html>
